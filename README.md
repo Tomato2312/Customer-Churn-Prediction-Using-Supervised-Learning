@@ -114,27 +114,27 @@ Các khách hàng có `Action = "Ưu tiên liên hệ giữ chân"` là những 
 
 Pipeline xử lý biến số bằng median imputation và chuẩn hoá, xử lý biến phân loại bằng mode imputation và one-hot encoding. Với StandardScaler, một giá trị được biến đổi theo:
 
-\[
+$$
 z = \frac{x - \mu}{\sigma}
-\]
+$$
 
-Trong đó \(\mu\) là trung bình và \(\sigma\) là độ lệch chuẩn của tập huấn luyện. Các cột có nguy cơ rò rỉ dữ liệu như `Churn Value`, `Churn Score` và `Churn Reason` được loại bỏ trước khi huấn luyện.
+Trong đó $\mu$ là trung bình và $\sigma$ là độ lệch chuẩn của tập huấn luyện. Các cột có nguy cơ rò rỉ dữ liệu như `Churn Value`, `Churn Score` và `Churn Reason` được loại bỏ trước khi huấn luyện.
 
 ### Logistic Regression
 
 Đây là mô hình cơ sở dễ diễn giải: mô hình hoá quan hệ tuyến tính giữa đặc trưng và log-odds churn, rồi đổi sang xác suất bằng sigmoid.
 
-\[
+$$
 z = \beta_0 + \sum_{j=1}^{p}\beta_jx_j,
 \qquad
 p(y=1\mid x) = \frac{1}{1+e^{-z}}
-\]
+$$
 
 Mô hình tối thiểu hoá binary cross-entropy:
 
-\[
+$$
 \mathcal{L} = -\frac{1}{n}\sum_{i=1}^{n}[y_i\log(p_i)+(1-y_i)\log(1-p_i)]
-\]
+$$
 
 Trong notebook: `LogisticRegression(max_iter=2000, class_weight="balanced")`. Đây là baseline tốt, nhưng khó nắm bắt tương tác phi tuyến phức tạp.
 
@@ -142,13 +142,13 @@ Trong notebook: `LogisticRegression(max_iter=2000, class_weight="balanced")`. Đ
 
 Decision Tree tạo các quy tắc “nếu/thì” để chia khách hàng thành các nhóm ngày càng thuần nhất. Mỗi phép chia được chọn để giảm Gini impurity lớn nhất:
 
-\[
+$$
 G(m) = 1 - \sum_{k=1}^{K}p_{mk}^{2}
-\]
+$$
 
-\[
+$$
 \Delta G = G(m) - \frac{n_L}{n_m}G(L) - \frac{n_R}{n_m}G(R)
-\]
+$$
 
 Trong notebook: `DecisionTreeClassifier(max_depth=6, min_samples_leaf=20, class_weight="balanced")`. Cây dễ giải thích và nhận diện tương tác phi tuyến, nhưng một cây đơn lẻ có thể kém ổn định.
 
@@ -156,32 +156,32 @@ Trong notebook: `DecisionTreeClassifier(max_depth=6, min_samples_leaf=20, class_
 
 Random Forest kết hợp nhiều Decision Tree học từ các mẫu bootstrap và tập con đặc trưng ngẫu nhiên. Điều này giảm phương sai và thường tổng quát hoá tốt hơn một cây đơn.
 
-\[
+$$
 \hat{p}_{RF}(y=1\mid x) = \frac{1}{B}\sum_{b=1}^{B}\hat{p}_b(y=1\mid x)
-\]
+$$
 
-Trong đó \(B\) là số cây. Notebook dùng `RandomForestClassifier(n_estimators=400, max_depth=12, min_samples_leaf=5, class_weight="balanced")`. Đây là mô hình được chọn do PR-AUC validation cao nhất; đổi lại, độ diễn giải thấp hơn Logistic Regression.
+Trong đó $B$ là số cây. Notebook dùng `RandomForestClassifier(n_estimators=400, max_depth=12, min_samples_leaf=5, class_weight="balanced")`. Đây là mô hình được chọn do PR-AUC validation cao nhất; đổi lại, độ diễn giải thấp hơn Logistic Regression.
 
 ### Chỉ số và chọn ngưỡng
 
 Nhãn dự đoán được quyết định từ xác suất churn:
 
-\[
+$$
 \hat{y}=\mathbb{1}[p(y=1\mid x)\ge t]
-\]
+$$
 
-Với \(TP\), \(TN\), \(FP\), \(FN\) từ ma trận nhầm lẫn:
+Với $TP$, $TN$, $FP$, $FN$ từ ma trận nhầm lẫn:
 
-\[
+$$
 \text{Precision}=\frac{TP}{TP+FP}, \qquad
 \text{Recall}=\frac{TP}{TP+FN}
-\]
+$$
 
-\[
+$$
 F_\beta=(1+\beta^2)\frac{\text{Precision}\cdot\text{Recall}}{\beta^2\text{Precision}+\text{Recall}}
-\]
+$$
 
-F1 dùng \(\beta=1\) để cân bằng precision/recall. Dự án chọn ngưỡng làm F2 (\(\beta=2\)) cao nhất trên validation, vì F2 ưu tiên recall nhiều hơn—phù hợp khi bỏ sót khách sắp rời bỏ gây thiệt hại lớn. ROC-AUC đo khả năng phân biệt ở mọi ngưỡng; PR-AUC phù hợp hơn cho lớp churn ít phổ biến.
+F1 dùng $\beta=1$ để cân bằng precision/recall. Dự án chọn ngưỡng làm F2 ($\beta=2$) cao nhất trên validation, vì F2 ưu tiên recall nhiều hơn—phù hợp khi bỏ sót khách sắp rời bỏ gây thiệt hại lớn. ROC-AUC đo khả năng phân biệt ở mọi ngưỡng; PR-AUC phù hợp hơn cho lớp churn ít phổ biến.
 
 Phần này là tài liệu học nhanh cho các thuật toán được dùng trong pipeline. Kết quả thực nghiệm và cách diễn giải các chỉ số được trình bày ngay bên dưới.
 
