@@ -1,4 +1,4 @@
-# Dự báo rời bỏ khách hàng Telco
+# Dự báo rời bỏ khách hàng
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Notebook](https://img.shields.io/badge/Notebook-Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
@@ -49,7 +49,7 @@ flowchart LR
 ### Chạy trên máy cục bộ
 
 ```bash
-git clone <URL_REPOSITORY_CUA_BAN>
+git clone https://github.com/Tomato2312/Customer-Churn-Prediction-Using-Supervised-Learning
 cd PROJECTS-DATAMINING
 python -m venv .venv
 ```
