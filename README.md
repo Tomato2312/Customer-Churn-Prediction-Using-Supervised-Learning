@@ -49,7 +49,7 @@ flowchart LR
 ### Chạy trên máy cục bộ
 
 ```bash
-git clone <URL_REPOSITORY_CUA_BAN>
+git clone https://github.com/Tomato2312/Customer-Churn-Prediction-Using-Supervised-Learning
 cd PROJECTS-DATAMINING
 python -m venv .venv
 ```
