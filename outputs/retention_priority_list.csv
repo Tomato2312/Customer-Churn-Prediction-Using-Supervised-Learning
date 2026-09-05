@@ -1,0 +1,1410 @@
+﻿CustomerID,Churn_probability,Action,Contract,Internet Service,Tenure Months,Monthly Charges,Payment Method
+1069-XAIEM,0.7715619439165478,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,1,85.05,Electronic check
+1143-NMNQJ,0.766294658172975,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,2,85.7,Electronic check
+4750-ZRXIU,0.7646999391190025,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,4,84.6,Electronic check
+2609-IAICY,0.7631419465903677,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,1,77.15,Electronic check
+9248-OJYKK,0.7630660010967587,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,1,76.45,Electronic check
+8083-YTZES,0.7618003530689141,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,4,74.35,Electronic check
+5542-TBBWB,0.760810592301387,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,1,69.9,Electronic check
+3716-BDVDB,0.7608090916729247,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,1,69.1,Electronic check
+2545-EBUPK,0.7602763646633331,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,2,84.05,Electronic check
+7409-KIUTL,0.7601162939952042,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,1,71.0,Electronic check
+8375-DKEBR,0.7598805024028169,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,1,69.6,Electronic check
+9878-TNQGW,0.7594553137151999,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,2,80.95,Electronic check
+1820-TQVEV,0.7593505068771798,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,1,69.55,Electronic check
+4342-HENTK,0.7590673653409793,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,2,70.65,Electronic check
+9057-SIHCH,0.7580802268715096,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,3,96.6,Electronic check
+4415-IJZTP,0.7575418415317904,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,1,74.5,Electronic check
+5376-DEQCP,0.7574228201056548,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,1,70.6,Electronic check
+7817-BOQPW,0.7573390415183264,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,2,75.55,Electronic check
+8593-WHYHV,0.7562444702810359,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,3,85.3,Electronic check
+6077-BDPXA,0.7557940724549809,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,3,70.15,Electronic check
+3722-WPXTK,0.7553271081104933,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,1,88.35,Electronic check
+9717-QEBGU,0.7549836406210056,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,2,70.3,Electronic check
+7130-VTEWQ,0.7548689820066398,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,8,75.75,Electronic check
+2514-GINMM,0.7546183697133729,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,1,79.5,Electronic check
+8380-PEFPE,0.7546024042574585,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,1,71.65,Electronic check
+0970-ETWGE,0.7545625235370573,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,1,89.55,Electronic check
+9804-ICWBG,0.7545455665955834,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,1,69.9,Electronic check
+8443-ZRDBZ,0.7541637332049175,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,4,76.05,Electronic check
+2034-GDRCN,0.7535391208627504,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,2,90.4,Electronic check
+3721-CNEYS,0.7534514858635899,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,2,70.95,Electronic check
+0295-PPHDO,0.7533403248037988,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,1,95.45,Electronic check
+8258-GSTJK,0.7527745045255707,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,3,77.0,Electronic check
+6979-ZNSFF,0.7527225231824584,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,8,87.05,Electronic check
+4090-KPJIP,0.7525465815880849,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,3,74.95,Electronic check
+4713-LZDRV,0.7521755920168043,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,2,79.6,Electronic check
+8752-STIVR,0.7520973457979779,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,4,79.0,Electronic check
+4806-KEXQR,0.7516602594591894,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,4,79.9,Electronic check
+1320-HTRDR,0.7501877747487111,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,3,75.5,Electronic check
+3199-XGZCY,0.7491410213433057,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,8,75.25,Electronic check
+7180-PISOG,0.748665073645386,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,1,74.5,Electronic check
+4115-NZRKS,0.7486002473855302,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,7,89.15,Electronic check
+1853-UDXBW,0.7474809122084729,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,1,70.0,Electronic check
+8541-QVFKM,0.7474317008040258,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,8,73.5,Electronic check
+6630-UJZMY,0.7463820777203213,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,4,83.25,Electronic check
+8161-QYMTT,0.7455603248309198,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,7,94.1,Electronic check
+4229-CZMLL,0.7454033502515987,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,6,74.9,Electronic check
+0679-IDSTG,0.7453865464848622,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,1,69.25,Electronic check
+3422-LYEPQ,0.7444252280370656,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,1,71.0,Electronic check
+3519-ZKXGG,0.7442432790672318,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,3,75.85,Electronic check
+3750-CKVKH,0.7441886238940227,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,2,67.75,Electronic check
+1016-DJTSV,0.744051829772274,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,8,69.7,Electronic check
+9611-CTWIH,0.7436902260076508,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,3,89.45,Electronic check
+9685-WKZGT,0.7435869424135337,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,14,74.95,Electronic check
+9334-GWGOW,0.7424394954681016,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,7,74.85,Electronic check
+6230-BSUXY,0.7424339447634555,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,1,85.0,Electronic check
+2077-MPJQO,0.7420195254272245,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,7,75.4,Electronic check
+7354-OIJLX,0.7405401698391592,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,9,75.85,Electronic check
+6000-APYLU,0.7402430863633565,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,9,80.8,Electronic check
+3030-YDNRM,0.7396937488197319,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,8,74.85,Electronic check
+8245-UMPYT,0.7381748602945684,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,16,96.4,Electronic check
+5178-LMXOP,0.7378715886732621,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,1,95.1,Electronic check
+6969-MVBAI,0.7377808536897139,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,9,90.1,Electronic check
+2202-CUYXZ,0.7369553601730975,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,1,84.85,Electronic check
+2865-TCHJW,0.7369025296415375,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,4,89.2,Electronic check
+6861-XWTWQ,0.7359508234493489,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,7,99.25,Electronic check
+2482-CZGBB,0.7357944158419175,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,10,70.0,Electronic check
+4631-OACRM,0.7354729453882577,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,15,79.4,Electronic check
+6023-YEBUP,0.7352462781523431,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,3,100.95,Electronic check
+2959-MJHIC,0.7349442824658996,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,4,80.35,Electronic check
+7249-WBIYX,0.7341877908941133,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,10,85.6,Electronic check
+7363-QTBIW,0.7331760089614339,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,9,79.75,Electronic check
+3320-VEOYC,0.7330751868729852,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,14,95.6,Electronic check
+3244-DCJWY,0.7330262555767151,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,1,70.25,Electronic check
+5196-SGOAK,0.7309626160382998,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,1,75.7,Electronic check
+7235-NXZCP,0.7301694255644808,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,2,74.85,Mailed check
+1628-BIZYP,0.7300878632178983,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,1,85.0,Electronic check
+2867-UIMSS,0.7288764054149375,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,1,80.5,Electronic check
+8884-ADFVN,0.7275259013959092,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,7,101.95,Electronic check
+5159-YFPKQ,0.7274600539584164,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,2,75.8,Electronic check
+6856-RAURS,0.7259776738153637,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,2,74.9,Mailed check
+3707-GNWHM,0.7257867148499467,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,1,74.25,Mailed check
+1867-BDVFH,0.7256481637922683,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,11,74.35,Electronic check
+2761-OCIAX,0.7250463514452362,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,2,74.7,Electronic check
+7209-JCUDS,0.724089099560347,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,10,94.9,Electronic check
+4301-VVZKA,0.7237051827141056,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,16,75.4,Electronic check
+0004-TLHLJ,0.7234297003372495,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,4,73.9,Electronic check
+3006-XIMLN,0.7230723223203256,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,2,94.2,Bank transfer (automatic)
+8739-XNIKG,0.722846685756698,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,5,84.0,Electronic check
+5228-EXCET,0.7228242573323064,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,13,80.85,Electronic check
+4927-WWOOZ,0.7218531127055009,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,2,91.45,Electronic check
+5442-BHQNG,0.7213846928574393,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,2,70.35,Electronic check
+5186-SAMNZ,0.7211855044024175,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,1,69.5,Bank transfer (automatic)
+2737-YNGYW,0.7206924941952272,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,2,80.55,Electronic check
+5382-SOYZL,0.7198730942881153,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,22,95.1,Electronic check
+0685-MLYYM,0.7192317965469927,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,2,70.75,Electronic check
+8775-ERLNB,0.7186031266144361,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,1,74.3,Electronic check
+4029-HPFVY,0.7184316912251525,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,3,70.3,Mailed check
+6376-GAHQE,0.7170842683325824,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,4,77.85,Electronic check
+7005-CCBKV,0.7168097772557478,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,6,84.4,Electronic check
+1475-VWVDO,0.7165250175261,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,7,74.9,Electronic check
+8873-GLDMH,0.7161326883702773,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,6,73.85,Mailed check
+7198-GLXTC,0.715805762522807,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,2,79.0,Electronic check
+9576-ANLXO,0.7154112598343305,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,3,69.55,Bank transfer (automatic)
+2985-FMWYF,0.714825819107989,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,23,93.5,Electronic check
+4983-CCWMC,0.7141572797416085,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,3,69.6,Mailed check
+8821-XNHVZ,0.712344984471251,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,1,80.05,Mailed check
+1448-PWKYE,0.7114260657870394,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,1,80.0,Electronic check
+7534-BFESC,0.7110963595543095,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,24,76.1,Electronic check
+1980-KXVPM,0.7107660400428495,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,3,75.05,Credit card (automatic)
+9507-EXLTT,0.7098709374005999,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,1,79.35,Bank transfer (automatic)
+8622-ZLFKO,0.7093856399399837,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,6,90.75,Electronic check
+6372-RFVNS,0.709173275153382,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,1,78.8,Electronic check
+2754-XBHTB,0.7083928843570151,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,9,77.65,Bank transfer (automatic)
+6328-ZPBGN,0.7081843358671197,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,11,95.15,Bank transfer (automatic)
+1400-MMYXY,0.7081772515492307,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,3,105.9,Electronic check
+4283-FUTGF,0.7070750836548035,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,19,79.85,Electronic check
+8361-LTMKD,0.7059645051547956,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,4,74.4,Mailed check
+5628-FCGYG,0.7057521147343437,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,21,84.1,Electronic check
+8699-ASUFO,0.7049351824963044,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,7,74.4,Mailed check
+7855-DIWPO,0.7046194468333168,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,21,68.65,Electronic check
+2057-ZBLPD,0.7035595109310044,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,21,86.5,Electronic check
+6507-ZJSUR,0.7033567705523344,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,23,90.45,Electronic check
+0958-YHXGP,0.703040431699983,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,7,69.9,Mailed check
+6712-OAWRH,0.702208034726826,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,26,91.25,Electronic check
+7912-SYRQT,0.701959089528593,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,7,75.1,Bank transfer (automatic)
+5357-TZHPP,0.7010992034594261,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,9,84.4,Credit card (automatic)
+6319-IEJWJ,0.700906988524615,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,20,90.2,Electronic check
+6705-LXORM,0.7005813659041721,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,5,70.05,Electronic check
+2501-XWWTZ,0.7003682015623178,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,11,70.2,Electronic check
+0841-NULXI,0.6998160406351827,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,1,35.55,Electronic check
+5501-TVMGM,0.6997269137621797,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,1,55.25,Electronic check
+9221-OTIVJ,0.6994797747671668,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,14,104.85,Electronic check
+4873-ILOLJ,0.699428556626522,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,24,90.35,Electronic check
+1768-ZAIFU,0.6991216529947399,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,1,25.2,Electronic check
+2845-HSJCY,0.6990436073499159,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,14,87.25,Electronic check
+0330-IVZHA,0.6987029342843158,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,5,69.95,Electronic check
+0655-RBDUG,0.6986618181550379,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,7,98.05,Bank transfer (automatic)
+7861-UVUFT,0.6977610594733434,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,15,84.3,Electronic check
+9940-RHLFB,0.6972793580553761,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,1,75.3,Electronic check
+6899-PPEEA,0.6968694692157976,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,37,96.55,Electronic check
+8696-JKZNU,0.6966605170191346,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,37,76.25,Electronic check
+6910-HADCM,0.6961301392520772,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,1,76.35,Electronic check
+4706-AXVKM,0.6956878124636208,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,11,84.8,Credit card (automatic)
+1092-GANHU,0.6955051040020895,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,17,76.65,Electronic check
+6857-VWJDT,0.6946153327287949,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,1,95.65,Mailed check
+3672-YITQD,0.6943581702774091,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,36,84.1,Electronic check
+6557-BZXLQ,0.6939830370871313,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,16,69.65,Electronic check
+2187-PKZAY,0.6931759262664144,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,12,79.95,Bank transfer (automatic)
+3063-QFSZL,0.6930520447810642,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,1,55.4,Electronic check
+3365-SAIGS,0.6927294407324055,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,17,83.55,Electronic check
+2254-DLXRI,0.6926700304929243,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,1,79.15,Mailed check
+4547-LYTDD,0.6921880862016937,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,16,72.65,Electronic check
+1658-TJVOA,0.6916245521566832,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,6,74.1,Electronic check
+8739-WWKDU,0.6906375410754501,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,25,89.5,Electronic check
+1989-PRJHP,0.6905993455035856,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,27,75.5,Electronic check
+4735-ASGMA,0.6902002273997436,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,26,98.35,Electronic check
+3858-VOBET,0.6897850779071546,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,23,74.95,Electronic check
+2325-NBPZG,0.6897535595730727,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,3,74.55,Electronic check
+4587-VVTOX,0.689621478392556,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,6,105.3,Electronic check
+0988-JRWWP,0.6895710924394594,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,3,54.2,Electronic check
+9840-DVNDC,0.6890670613517318,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,6,80.5,Credit card (automatic)
+3338-CVVEH,0.6887856013013637,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,12,94.55,Electronic check
+2027-FECZV,0.6880656493168753,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,12,106.7,Electronic check
+3908-BLSYF,0.6879134538332191,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,6,83.9,Electronic check
+7587-RZNME,0.6875574380605539,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,3,43.3,Electronic check
+7218-HKQFK,0.6875433945514213,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,2,94.2,Electronic check
+7278-CKDNC,0.6871530623053141,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,24,80.5,Electronic check
+2495-INZWQ,0.6866983792913182,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,4,44.55,Electronic check
+3717-OEAUQ,0.6859176996480918,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,2,70.7,Mailed check
+8132-YPVBX,0.6851988027405228,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,6,85.95,Mailed check
+0524-IAVZO,0.684299833818322,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,30,85.0,Electronic check
+6680-WKXRZ,0.6842636076854974,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,3,74.4,Bank transfer (automatic)
+1751-NCDLI,0.68408072386578,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,46,98.85,Electronic check
+3877-JRJIP,0.6837712594598311,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,1,59.85,Electronic check
+4512-ZUIYL,0.6827998849773725,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,2,70.0,Bank transfer (automatic)
+6543-XRMYR,0.6826762928529866,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,30,99.7,Electronic check
+6166-ILMNY,0.6823644377341853,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,2,69.75,Bank transfer (automatic)
+8676-TRMJS,0.6823595565241619,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,3,75.0,Mailed check
+2485-ITVKB,0.6819416602365799,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,2,35.1,Electronic check
+1302-UHBDD,0.6818321910953827,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,20,89.95,Electronic check
+0432-CAJZV,0.6817495963536233,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,3,90.7,Mailed check
+1335-NTIUC,0.6817138702329392,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,9,24.95,Electronic check
+8778-LMWTJ,0.6815985615818854,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,9,74.85,Electronic check
+5167-ZFFMM,0.6814454584413574,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,1,90.85,Credit card (automatic)
+7410-YTJIK,0.6813221887981524,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,7,75.45,Mailed check
+2919-HBCJO,0.6811613789128608,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,4,76.65,Bank transfer (automatic)
+0581-BXBUB,0.6808310950715867,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,4,72.75,Electronic check
+7273-TEFQD,0.6807455398539237,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,3,41.15,Electronic check
+4706-DGAHW,0.6803431454237513,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,1,45.2,Electronic check
+7571-YXDAD,0.680308178381818,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,2,74.9,Credit card (automatic)
+6175-IRFIT,0.6801882182094974,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,5,78.75,Mailed check
+0235-KGSLC,0.6783533417812536,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,1,85.55,Credit card (automatic)
+3677-IYRBF,0.678045381476004,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,2,30.4,Electronic check
+9279-CJEOJ,0.6770518160746916,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,21,95.4,Bank transfer (automatic)
+0388-EOPEX,0.6769827531593268,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,2,74.4,Electronic check
+0923-PNFUB,0.6768081188890409,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,3,83.75,Electronic check
+9866-QEVEE,0.6759448914421179,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,19,86.0,Bank transfer (automatic)
+4360-PNRQB,0.6753948666784977,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,18,75.6,Bank transfer (automatic)
+1894-IGFSG,0.6750061262435532,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,22,89.25,Electronic check
+9283-LZQOH,0.6747167710236082,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,13,74.4,Credit card (automatic)
+3585-ISXZP,0.6741478250932373,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,8,95.65,Bank transfer (automatic)
+0430-IHCDJ,0.6736817836756431,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,15,49.0,Electronic check
+8080-DDEMJ,0.6736137401004823,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,1,45.1,Electronic check
+4817-VYYWS,0.6734991379815686,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,30,100.2,Electronic check
+5480-HPRRX,0.6734138334718771,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,3,25.3,Electronic check
+9167-APMXZ,0.6730811027472252,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,22,84.15,Bank transfer (automatic)
+8393-DLHGA,0.672917851716651,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,25,95.9,Electronic check
+3966-HRMZA,0.6722409520508095,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,3,75.05,Mailed check
+4690-LLKUA,0.6720408802929865,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,17,45.05,Electronic check
+2860-RANUS,0.671959163877479,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,20,85.8,Credit card (automatic)
+0506-LVNGN,0.6712816647475168,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,5,75.55,Credit card (automatic)
+8160-HOWOX,0.6710406507221015,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,7,66.85,Electronic check
+5144-TVGLP,0.670921897595895,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,38,94.75,Electronic check
+6022-UGGSO,0.6707813469696182,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,32,74.4,Electronic check
+0256-LTHVJ,0.6703689564279388,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,28,81.05,Electronic check
+5052-PNLOS,0.6702622911262658,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,3,105.35,Bank transfer (automatic)
+6608-QQLVK,0.6701654137954933,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,1,50.5,Electronic check
+2955-BJZHG,0.6695606508816451,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,17,80.85,Electronic check
+5226-NOZFC,0.6695133932745054,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,26,85.75,Electronic check
+6834-NXDCA,0.6691937661736289,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,13,23.9,Electronic check
+8266-VBFQL,0.6688521290161382,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,4,90.4,Electronic check
+2101-RANCD,0.668756325628303,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,55,73.1,Electronic check
+0531-ZZJWQ,0.6687244075860614,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,55,74.0,Electronic check
+5650-YLIBA,0.6683547828570809,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,31,81.15,Electronic check
+1942-OQFRW,0.6683119226717938,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,1,44.0,Electronic check
+1112-CUNAO,0.6671516001001805,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,15,89.85,Electronic check
+5133-POWUA,0.6664054164496719,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,1,45.8,Mailed check
+0322-CHQRU,0.6660993872979987,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,2,45.35,Electronic check
+1731-TVIUK,0.6660075200385656,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,4,93.5,Electronic check
+3923-CSIHK,0.6659262369339607,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,50,71.05,Electronic check
+6892-XPFPU,0.6658491069396402,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,24,104.25,Electronic check
+7663-RGWBC,0.6655764026126231,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,1,44.15,Mailed check
+8709-KRDVL,0.6650190676304147,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,33,100.0,Electronic check
+8397-MVTAZ,0.6650080879051038,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,34,100.05,Electronic check
+2178-PMGCJ,0.664762299312441,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,22,69.7,Mailed check
+4818-QIUFN,0.6640059592747568,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,20,79.15,Electronic check
+1024-GUALD,0.6637687135602883,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,1,24.8,Electronic check
+9692-TUSXH,0.663299326067009,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,18,96.05,Electronic check
+9747-DDZOS,0.6625705162609278,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,1,73.5,Bank transfer (automatic)
+5692-FPTAH,0.661865904774681,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,1,45.4,Mailed check
+4445-ZJNMU,0.6611673027443328,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,9,99.3,Credit card (automatic)
+0576-WNXXC,0.6610728844326336,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,27,95.55,Electronic check
+8993-PHFWD,0.6609345981296515,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,3,25.25,Electronic check
+4570-QHXHL,0.6596476813048464,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,9,43.75,Electronic check
+2386-LAHRK,0.6589211463416188,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,1,53.5,Mailed check
+9112-WSNPU,0.6588414337528353,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,35,70.55,Electronic check
+7181-BQYBV,0.6588347395492208,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,1,102.45,Electronic check
+8650-RHRKE,0.6585765347158922,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,4,29.65,Electronic check
+3334-CTHOL,0.6579774942760515,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,1,49.95,Bank transfer (automatic)
+4237-RLAQD,0.6578852725582093,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,1,45.85,Mailed check
+9752-ZNQUT,0.6578808475181068,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,1,48.6,Electronic check
+0616-ATFGB,0.6570379459221074,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,1,25.05,Electronic check
+5419-CONWX,0.6570304050969001,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,4,99.8,Credit card (automatic)
+1902-XBTFB,0.6555099415463362,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,22,89.4,Electronic check
+7504-UWHNB,0.6544121149682586,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,25,69.75,Electronic check
+9227-LUNBG,0.6544101189169141,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,1,24.6,Electronic check
+7460-ITWWP,0.6543796824033321,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,45,86.1,Electronic check
+0599-XNYDO,0.6533507846693373,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,20,69.8,Bank transfer (automatic)
+0258-NOKBL,0.6525595492235555,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,3,90.4,Electronic check
+5760-FXFVO,0.6525284362591813,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,6,78.95,Electronic check
+0376-YMCJC,0.6524332295806774,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,23,90.6,Electronic check
+4317-VTEOA,0.6522488222006914,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,1,50.75,Electronic check
+2665-NPTGL,0.6515350403073363,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,26,98.1,Bank transfer (automatic)
+6402-EJMWF,0.6514246961961715,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,4,55.3,Mailed check
+8601-QACRS,0.651053861011154,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,5,50.6,Mailed check
+9944-AEXBM,0.6507952284027483,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,32,85.65,Bank transfer (automatic)
+0871-URUWO,0.6506179379448134,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,13,102.25,Credit card (automatic)
+8058-DMYRU,0.6505397918486281,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,54,90.05,Electronic check
+2277-VWCNI,0.6504948295096901,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,4,48.75,Mailed check
+9465-RWMXL,0.6504657264807221,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,32,78.9,Electronic check
+8818-DOPVL,0.6504309762323734,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,46,104.45,Electronic check
+4919-IKATY,0.6492573296348386,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,5,84.5,Electronic check
+1236-WFCDV,0.6488790275813713,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,14,90.45,Credit card (automatic)
+6034-YMTOB,0.6488730321753825,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,5,75.65,Mailed check
+9741-YLNTD,0.6482050381958783,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,6,87.95,Bank transfer (automatic)
+4208-UFFGW,0.647610020834747,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,2,44.95,Mailed check
+9907-SWKKF,0.6474938757997234,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,1,25.05,Mailed check
+7029-RPUAV,0.6474860147655329,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,17,100.45,Credit card (automatic)
+1310-QRITU,0.647166702989931,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,18,50.3,Electronic check
+0682-USIXD,0.6471243507818616,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,21,86.05,Electronic check
+8714-EUHJO,0.6461579311576952,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,31,91.15,Electronic check
+2754-SDJRD,0.6459022147809027,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,8,100.15,Credit card (automatic)
+8621-MNIHH,0.6457751942186518,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,34,94.25,Electronic check
+6227-HWPWX,0.6456204301673314,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,15,69.0,Bank transfer (automatic)
+5339-PXDVH,0.6452879630821845,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,4,90.65,Electronic check
+6821-BUXUX,0.6450593236610047,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,13,96.65,Electronic check
+3094-JOJAI,0.6446622780828608,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,18,74.15,Mailed check
+4686-UXDML,0.6414367088485181,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,21,99.85,Credit card (automatic)
+8849-AYPTR,0.6413358318154126,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,33,91.25,Electronic check
+0876-WDUUZ,0.641249964970432,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,5,85.4,Credit card (automatic)
+2439-LYPMQ,0.6409971105689989,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,38,102.6,Electronic check
+7056-IMHCC,0.6408574416979732,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,53,101.9,Electronic check
+6729-GDNGC,0.6406479765130605,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,20,80.7,Bank transfer (automatic)
+3292-PBZEJ,0.6405691935039016,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,11,111.4,Electronic check
+9286-DOJGF,0.6400622493920306,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,38,74.95,Bank transfer (automatic)
+6047-YHPVI,0.63979439500809,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,5,69.7,Electronic check
+7503-QQRVF,0.639465726664557,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,16,74.3,Credit card (automatic)
+0023-XUOPT,0.6394525503978514,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,13,94.1,Electronic check
+6158-HDPXZ,0.6394318494980167,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,1,25.35,Mailed check
+5373-SFODM,0.6393106527579228,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,36,85.25,Credit card (automatic)
+1522-VVDMG,0.6389030355277555,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,7,89.75,Electronic check
+3540-RZJYU,0.6370765556779716,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,15,86.2,Electronic check
+5281-BUZGT,0.6370396062627147,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,36,90.85,Electronic check
+7529-ZDFXI,0.636734871443937,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,57,89.85,Electronic check
+8280-MQRQN,0.6366398313422864,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,1,50.45,Mailed check
+2041-JIJCI,0.6362350732940991,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,5,64.0,Electronic check
+9050-QLROH,0.6361870060053363,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,18,90.7,Credit card (automatic)
+3312-ZWLGF,0.6359611096783319,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,29,79.3,Electronic check
+6651-AZVTJ,0.6354183583964749,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,49,99.8,Electronic check
+9048-JVYVF,0.635293771626163,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,3,69.35,Electronic check
+4067-HLYQI,0.6349301256125838,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,33,70.4,Bank transfer (automatic)
+9450-TRJUU,0.6348635894775236,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,35,83.15,Electronic check
+0749-IRGQE,0.6339774676891746,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,13,45.3,Electronic check
+2694-CIUMO,0.6334540971826175,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,12,79.55,Credit card (automatic)
+7054-LGEQW,0.63337794464945,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,1,45.95,Mailed check
+2800-QQUSO,0.6331100015356579,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,42,100.3,Electronic check
+2203-GHNWN,0.6316462709839857,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,24,79.65,Mailed check
+0310-MVLET,0.6312533388474728,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,61,99.15,Electronic check
+7404-JLKQG,0.631127377694006,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,3,57.55,Electronic check
+1536-HBSWP,0.6310201814422904,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,1,49.9,Electronic check
+9819-FBNSV,0.6309666120954202,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,37,72.25,Bank transfer (automatic)
+0096-BXERS,0.6307942057254832,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,6,50.35,Electronic check
+2672-OJQZP,0.6306865657599925,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,1,44.75,Mailed check
+2025-JKFWI,0.6303820001776552,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,13,99.0,Mailed check
+9638-JIQYA,0.6295248792945574,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,2,24.9,Credit card (automatic)
+4647-MUZON,0.6294869031207938,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,18,95.95,Credit card (automatic)
+0015-UOCOJ,0.6293668783094764,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,7,48.2,Electronic check
+4678-DVQEO,0.6279133410369533,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,1,52.2,Electronic check
+2309-OSFEU,0.6278772921128377,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,10,33.9,Mailed check
+6543-CPZMK,0.6278324018606,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,9,29.95,Electronic check
+0581-MDMPW,0.6275863711588568,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,24,88.95,Credit card (automatic)
+0082-OQIQY,0.6268632781227284,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,29,94.2,Electronic check
+7876-BEUTG,0.6268623301741801,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,15,48.8,Mailed check
+4223-WOZCM,0.6267779382301883,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,2,49.95,Mailed check
+6825-UYPFK,0.6253124145678122,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,23,75.6,Bank transfer (automatic)
+0963-ZBDRN,0.6248324953293504,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,32,96.2,Electronic check
+2782-LFZVW,0.6244533626083149,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,11,58.95,Mailed check
+5606-AMZBO,0.6241454268752012,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,10,78.15,Credit card (automatic)
+1346-UFHAX,0.6239051483763387,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,13,80.0,Credit card (automatic)
+6338-AVWCY,0.6228732508993317,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,3,40.15,Mailed check
+5889-JTMUL,0.6219038801802038,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,50,95.05,Electronic check
+6304-IJFSQ,0.6207974701198462,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,3,49.9,Mailed check
+1077-HUUJM,0.6205940274159274,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,7,71.05,Electronic check
+1319-YLZJG,0.6200484927981827,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,12,84.6,Electronic check
+8938-UMKPI,0.6199682404210529,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,47,106.4,Electronic check
+1471-GIQKQ,0.6199091435726966,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,1,49.95,Electronic check
+9992-UJOEL,0.6195176869180893,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,2,50.3,Mailed check
+7952-OBOYL,0.6191732959022719,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,3,89.85,Mailed check
+6331-LWDTQ,0.6189327730862452,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,10,72.15,Credit card (automatic)
+6048-QBXKL,0.6187040348604931,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,2,56.55,Credit card (automatic)
+7129-ACFOG,0.6181241708702392,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,5,53.8,Electronic check
+1895-QTKDO,0.6176681098284476,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,1,43.95,Credit card (automatic)
+6173-GOLSU,0.6174436219013961,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,67,94.65,Credit card (automatic)
+9508-ILZDG,0.6174351196161498,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,34,96.35,Electronic check
+9369-XFEHK,0.6163141329035258,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,33,80.6,Bank transfer (automatic)
+3627-FHKBK,0.616174991766414,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,1,75.3,Mailed check
+2277-DJJDL,0.6157433846124049,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,60,99.0,Electronic check
+9576-SYUHJ,0.6152989197087687,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,37,91.15,Electronic check
+4581-LNWUM,0.6152422654178844,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,13,49.15,Electronic check
+0899-LIIBW,0.6151100304331124,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,34,100.85,Electronic check
+6377-WHAOX,0.6146781548490827,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,60,106.15,Electronic check
+6284-AHOOQ,0.6144317108505267,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,22,90.5,Bank transfer (automatic)
+6661-HBGWL,0.6142424690558165,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,42,104.75,Bank transfer (automatic)
+9327-QSDED,0.6136878364743767,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,8,43.55,Mailed check
+1035-IPQPU,0.6136300561206363,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,63,103.5,Electronic check
+6542-LWGXJ,0.6135662479415002,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,3,25.0,Mailed check
+8728-SKJLR,0.6132918096157921,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,41,74.25,Electronic check
+8785-CJSHH,0.6124294277252639,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,60,99.8,Electronic check
+5016-IBERQ,0.612241296815588,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,23,84.25,Electronic check
+9767-FFLEM,0.6111761557617509,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,38,69.5,Credit card (automatic)
+6481-ESCNL,0.6106078048135505,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,29,100.55,Bank transfer (automatic)
+9812-GHVRI,0.6105284907484705,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,40,83.85,Bank transfer (automatic)
+5331-RGMTT,0.610315633028003,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,54,99.05,Credit card (automatic)
+0778-NELLA,0.6073055358183801,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,9,34.7,Credit card (automatic)
+4640-UHDOS,0.6070273746351647,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,13,55.95,Electronic check
+2452-KDRRH,0.6064078864303133,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,67,101.4,Credit card (automatic)
+8988-ECPJR,0.6062287306137795,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,34,79.6,Mailed check
+8455-HIRAQ,0.6058950631661554,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,8,44.45,Mailed check
+4829-AUOAX,0.6058825630529028,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,46,96.05,Bank transfer (automatic)
+6704-UTUKK,0.6055746801045593,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,29,45.9,Electronic check
+4248-QPAVC,0.6055551778258981,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,17,85.35,Bank transfer (automatic)
+0390-DCFDQ,0.6051055705692856,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,1,70.45,Mailed check
+3312-UUMZW,0.6036277426527209,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,32,98.85,Credit card (automatic)
+4154-AQUGT,0.602777400628491,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,13,89.05,Bank transfer (automatic)
+9512-UIBFX,0.6024148123339775,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,18,95.15,Mailed check
+3658-KIBGF,0.6020670661748365,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,1,54.9,Electronic check
+1261-FWTTE,0.6020177908643991,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,23,34.65,Bank transfer (automatic)
+2828-SLQPF,0.6017705917272422,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,19,45.0,Bank transfer (automatic)
+4658-HCOHW,0.6016057492723832,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,21,102.8,Electronic check
+6711-VTNRE,0.6013628732106369,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,36,87.55,Electronic check
+5419-KLXBN,0.6003878807630527,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,25,89.15,Bank transfer (automatic)
+5301-GAUUY,0.5996433764431617,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,32,80.35,Bank transfer (automatic)
+8805-JNRAZ,0.5992592457835946,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,2,49.2,Mailed check
+5461-QKNTN,0.5989641594643661,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,43,94.3,Electronic check
+0410-IPFTY,0.5980237873269854,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,31,83.85,Bank transfer (automatic)
+5759-RCVCB,0.59742021137064,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,3,35.2,Credit card (automatic)
+1559-DTODC,0.5973651398771994,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,19,25.15,Bank transfer (automatic)
+6769-DYBQN,0.5971605367984466,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,46,85.0,Electronic check
+0823-HSCDJ,0.5967706093216498,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,52,49.15,Electronic check
+0952-KMEEH,0.5958350540058008,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,13,98.15,Mailed check
+9572-WUKSB,0.5952882982576865,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,3,29.9,Electronic check
+2606-RMDHZ,0.5947307675118039,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,6,30.5,Credit card (automatic)
+1965-DDBWU,0.5931643730396808,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,16,89.05,Credit card (automatic)
+1587-FKLZB,0.5924453989383168,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,66,99.5,Credit card (automatic)
+3982-XWFZQ,0.5913994562333168,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,42,50.25,Electronic check
+7470-MCQTK,0.5889043793432707,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,13,48.75,Bank transfer (automatic)
+3374-LXDEV,0.5886572731833777,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,13,89.4,Electronic check
+4840-ORQXB,0.5881860910547388,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,56,104.75,Electronic check
+8757-TFHHJ,0.5878569385730528,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,1,49.8,Credit card (automatic)
+5402-HTOTQ,0.5878186290700109,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,16,55.3,Electronic check
+0365-GXEZS,0.5869297919804883,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,18,78.2,Electronic check
+8914-RBTSB,0.5861325262474975,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,31,93.8,Electronic check
+9163-GHAYE,0.5858539490671038,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,15,48.85,Electronic check
+6257-RJOHI,0.5858309118154762,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,4,50.8,Mailed check
+5609-IMCGG,0.5853467275837025,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,15,84.35,Credit card (automatic)
+7881-EVUAD,0.5849014937380344,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,2,42.6,Electronic check
+1833-TCXKK,0.5847327782075583,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,45,107.75,Bank transfer (automatic)
+7277-OZCGZ,0.5845968729577617,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,22,89.05,Electronic check
+8445-DNBAE,0.583076697169848,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,1,50.05,Electronic check
+6317-YPKDH,0.5816043712418537,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,1,29.95,Bank transfer (automatic)
+2478-EEWWM,0.5815103683737646,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,59,44.3,Electronic check
+9701-CDXHR,0.5814093836382892,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,51,69.15,Mailed check
+0979-PHULV,0.5807101604857585,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,69,99.45,Credit card (automatic)
+2386-OWURY,0.5806298514817838,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,58,95.3,Electronic check
+3569-EDBPQ,0.5806264584616914,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,24,84.35,Electronic check
+8495-PRWFH,0.5792129423976398,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,42,55.65,Electronic check
+5698-BQJOH,0.5791869845997171,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,9,94.4,Electronic check
+2960-NKRSO,0.5789405757700163,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,24,85.95,Electronic check
+7733-UDMTP,0.5785195310476247,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,57,55.0,Electronic check
+4819-HJPIW,0.5770659794495308,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,18,25.15,Mailed check
+6128-AQBMT,0.5769309272509353,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,41,53.95,Electronic check
+8903-XEBGX,0.5764166395566845,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,2,55.3,Electronic check
+4526-ZJJTM,0.5761981544119478,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,25,88.4,Bank transfer (automatic)
+8623-ULFNQ,0.5755965658002694,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,26,66.05,Electronic check
+2108-YKQTY,0.5746578943377827,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,4,50.7,Credit card (automatic)
+2227-JRSJX,0.5743566655712784,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,21,99.15,Bank transfer (automatic)
+9732-KPKBW,0.5743478490459956,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,1,53.95,Electronic check
+7410-KTVFV,0.5742480791833728,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,18,49.55,Mailed check
+3018-TFTSU,0.5741342544487074,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,12,81.7,Bank transfer (automatic)
+1205-WNWPJ,0.5737007210270637,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,7,59.5,Mailed check
+7279-BUYWN,0.5736817451133667,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,41,113.2,Electronic check
+9979-RGMZT,0.5730263053458602,Ưu tiên liên hệ giữ chân,One year,Fiber optic,7,94.05,Mailed check
+1436-ZMJAN,0.5724170583420759,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,10,67.8,Credit card (automatic)
+7251-XFOIL,0.5710695595521705,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,61,89.2,Mailed check
+5213-TWWJU,0.5709484349020651,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,28,91.0,Electronic check
+4695-VADHF,0.5695277642537544,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,18,57.45,Electronic check
+4760-THGOT,0.569306869115302,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,43,94.1,Electronic check
+2988-PLAHS,0.5688542832557172,Ưu tiên liên hệ giữ chân,One year,DSL,3,69.95,Electronic check
+1100-DDVRV,0.5680473582957724,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,17,49.8,Mailed check
+5600-PDUJF,0.567962341598407,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,6,49.5,Credit card (automatic)
+2971-SGAFL,0.5677824715006545,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,13,78.75,Electronic check
+4993-JCRGJ,0.5675033478045528,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,26,84.3,Mailed check
+6429-SHBCB,0.5670030537884437,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,19,69.6,Mailed check
+8158-WPEZG,0.5668495182904874,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,11,35.65,Electronic check
+2770-NSVDG,0.5665932694343564,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,24,29.1,Electronic check
+7603-USHJS,0.5658170516354243,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,12,73.75,Credit card (automatic)
+1550-LOAHA,0.5656686359109387,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,32,84.15,Bank transfer (automatic)
+4226-KKDON,0.5646238948113507,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,8,66.65,Electronic check
+2669-QVCRG,0.5627715428875203,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,41,81.3,Credit card (automatic)
+7579-OOPEC,0.5624985637250401,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,2,50.15,Credit card (automatic)
+0440-QEXBZ,0.5622538819334845,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,44,50.15,Mailed check
+7181-OQCUT,0.5622001665074464,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,21,103.85,Mailed check
+2843-CQMEG,0.56123519772473,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,24,49.7,Mailed check
+3604-WLABM,0.5600825651863139,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,10,54.25,Electronic check
+2190-BCXEC,0.559641416456405,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,40,78.85,Credit card (automatic)
+1379-FRVEB,0.5592234529173781,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,15,91.0,Electronic check
+9927-DSWDF,0.5590472073786026,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,22,104.6,Electronic check
+4619-EVPHY,0.5587369342963217,Ưu tiên liên hệ giữ chân,One year,Fiber optic,20,91.0,Bank transfer (automatic)
+4945-RVMTE,0.5585430409305424,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,28,59.55,Bank transfer (automatic)
+4412-YLTKF,0.5585146369219788,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,27,78.05,Electronic check
+5575-TPIZQ,0.5576481333455008,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,46,89.15,Credit card (automatic)
+9278-VZKCD,0.5575280024489749,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,52,109.1,Electronic check
+5438-QMDDL,0.5567286221656754,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,19,59.8,Mailed check
+7851-FLGGQ,0.5567091172386858,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,1,44.65,Mailed check
+9381-NDKME,0.5564343789239591,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,24,40.65,Credit card (automatic)
+5828-AVIPD,0.5564176421881293,Ưu tiên liên hệ giữ chân,One year,Fiber optic,19,100.95,Electronic check
+2604-IJPDU,0.5562711103918516,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,20,96.55,Electronic check
+3587-PMCOY,0.5560325133242262,Ưu tiên liên hệ giữ chân,One year,Fiber optic,10,98.9,Electronic check
+3207-OYBWH,0.5557612968038952,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,57,95.25,Bank transfer (automatic)
+5129-JLPIS,0.5553921816323405,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,25,105.5,Electronic check
+5136-GFPMB,0.5547223118952254,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,54,89.4,Credit card (automatic)
+3466-RITXD,0.5546717188360523,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,26,92.4,Credit card (automatic)
+9851-KIELU,0.5545605583351416,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,10,110.1,Electronic check
+9103-TCIHJ,0.554233687223098,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,15,55.7,Mailed check
+6845-RGTYS,0.5541008331964496,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,47,98.75,Electronic check
+7957-RYHQD,0.5538678361772729,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,40,79.2,Credit card (automatic)
+2139-FQHLM,0.5513436586130989,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,19,89.95,Mailed check
+5351-QESIO,0.5510311753872886,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,1,24.2,Mailed check
+1816-FLZDK,0.5508891632204953,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,1,29.15,Mailed check
+3197-ARFOY,0.5505623953641142,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,19,105.0,Mailed check
+2587-EKXTS,0.5503584925461911,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,44,111.5,Electronic check
+7055-HNEOJ,0.548593336740587,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,3,55.8,Mailed check
+4724-WXVWF,0.5475948208997982,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,48,95.4,Electronic check
+1575-KRZZE,0.547370779949323,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,4,55.2,Electronic check
+3891-PUQOD,0.5462783309024736,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,1,59.2,Electronic check
+0422-UXFAP,0.5461662306334619,Ưu tiên liên hệ giữ chân,One year,Fiber optic,51,98.85,Electronic check
+0668-OGMHD,0.5458863645535561,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,21,28.5,Electronic check
+1848-LBZHY,0.5456057128235575,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,7,50.3,Bank transfer (automatic)
+9710-ZUSHQ,0.5455690658763757,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,37,106.75,Bank transfer (automatic)
+5103-MHMHY,0.5452579465212746,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,1,45.95,Mailed check
+4905-JEFDW,0.545246765496418,Ưu tiên liên hệ giữ chân,One year,DSL,11,41.6,Electronic check
+3413-CSSTH,0.5444883221525437,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,41,55.7,Bank transfer (automatic)
+9115-YQHGA,0.5427291975002528,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,40,51.1,Electronic check
+7018-WBJNK,0.5424705289996912,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,13,78.3,Credit card (automatic)
+6946-LMSQS,0.541711595360069,Ưu tiên liên hệ giữ chân,One year,Fiber optic,25,89.05,Electronic check
+1357-BIJKI,0.5411964253502073,Ưu tiên liên hệ giữ chân,One year,Fiber optic,50,98.25,Electronic check
+1541-ETJZO,0.5409853663223745,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,1,62.05,Mailed check
+0742-MOABM,0.5408336235542983,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,4,50.05,Mailed check
+0730-KOAVE,0.540770936664052,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,30,94.3,Credit card (automatic)
+2257-BOVXD,0.5407696399614106,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,14,66.6,Credit card (automatic)
+7054-ENNGU,0.5407135041676698,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,9,50.85,Mailed check
+7748-UMTRK,0.5403000501868871,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,30,101.3,Electronic check
+2432-TFSMK,0.5402683672069489,Ưu tiên liên hệ giữ chân,One year,Fiber optic,18,89.6,Credit card (automatic)
+0058-EVZWM,0.5393406687455127,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,55,89.8,Bank transfer (automatic)
+6710-HSJRD,0.5381623407968729,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,61,114.1,Electronic check
+3794-NFNCH,0.5375098456205941,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,30,50.0,Mailed check
+7928-VJYAB,0.5371661888705908,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,11,90.6,Electronic check
+9779-DPNEJ,0.5370118266108284,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,22,80.15,Electronic check
+6270-OMFIW,0.5358720230365153,Ưu tiên liên hệ giữ chân,One year,Fiber optic,60,94.4,Electronic check
+5533-RJFTJ,0.5345877833142939,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,49,30.2,Bank transfer (automatic)
+9389-ACWBI,0.5344416465457772,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,5,69.95,Credit card (automatic)
+5921-NGYRH,0.5343312722153963,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,64,73.55,Mailed check
+2480-SQIOB,0.5333263589589242,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,4,44.8,Electronic check
+2195-VVRJF,0.5329119082879854,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,18,59.1,Credit card (automatic)
+6646-QVXLR,0.532822067896419,Ưu tiên liên hệ giữ chân,One year,Fiber optic,62,103.75,Electronic check
+7398-LXGYX,0.532078483983072,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,44,84.8,Credit card (automatic)
+6713-OKOMC,0.5320388806059211,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,10,29.75,Mailed check
+6898-MDLZW,0.5318100374837775,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,12,53.75,Mailed check
+4846-WHAFZ,0.5317990036902608,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,37,76.5,Electronic check
+9820-RMCQV,0.5316300924171358,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,11,48.55,Credit card (automatic)
+5022-JNQEQ,0.5313996810890362,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,9,75.85,Electronic check
+2087-QAREY,0.5312326962525808,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,22,54.7,Mailed check
+0431-APWVY,0.5311447434491575,Ưu tiên liên hệ giữ chân,One year,Fiber optic,28,90.1,Bank transfer (automatic)
+3932-CMDTD,0.5305944333097719,Ưu tiên liên hệ giữ chân,One year,Fiber optic,4,105.65,Electronic check
+4003-FUSHP,0.530294925296577,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,19,61.55,Credit card (automatic)
+2070-FNEXE,0.5299739885834283,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,7,76.45,Bank transfer (automatic)
+7495-OOKFY,0.5281066912167376,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,8,80.65,Credit card (automatic)
+1809-DMJHQ,0.5279578358034509,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,5,46.0,Mailed check
+4983-CLMLV,0.5275347054377215,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,52,102.7,Credit card (automatic)
+1629-DQQVB,0.5262080010375545,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,14,50.1,Bank transfer (automatic)
+6234-PFPXL,0.5260134164251133,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,22,95.9,Credit card (automatic)
+4701-MLJPN,0.5258882915677616,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,31,55.25,Electronic check
+9054-FOWNV,0.5252654820679639,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,22,88.75,Electronic check
+3331-HQDTW,0.5252056602591144,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,34,109.8,Mailed check
+9643-AVVWI,0.5246589341276207,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,3,80.0,Electronic check
+5198-EFNBM,0.5244902297507986,Ưu tiên liên hệ giữ chân,One year,Fiber optic,57,90.65,Electronic check
+7067-KSAZT,0.5233813473513095,Ưu tiên liên hệ giữ chân,One year,Fiber optic,65,106.25,Electronic check
+3865-ZYKAD,0.5225073259211608,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,69,84.9,Credit card (automatic)
+5949-HGVJL,0.522271342387954,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,26,73.05,Electronic check
+9079-YEXQJ,0.5219885163842771,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,54,111.1,Electronic check
+6874-SGLHU,0.5218381994251017,Ưu tiên liên hệ giữ chân,One year,Fiber optic,30,97.0,Bank transfer (automatic)
+4402-FTBXC,0.5197477256138395,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,54,89.8,Mailed check
+9565-JSNFM,0.5196082155970295,Ưu tiên liên hệ giữ chân,One year,Fiber optic,38,70.45,Bank transfer (automatic)
+0733-VUNUW,0.5177651503109423,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,24,55.65,Bank transfer (automatic)
+6137-NICCO,0.5175006930992517,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,6,94.05,Mailed check
+3069-SSVSN,0.5168489718987039,Ưu tiên liên hệ giữ chân,One year,DSL,1,25.85,Mailed check
+1465-LNTLJ,0.5164046868710516,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,8,64.4,Credit card (automatic)
+3756-VNWDH,0.5133405419555817,Ưu tiên liên hệ giữ chân,One year,Fiber optic,65,100.75,Electronic check
+5380-WJKOV,0.5129893552214573,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,34,106.35,Electronic check
+5951-AOFIH,0.5121368262006107,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,33,66.4,Credit card (automatic)
+2279-AXJJK,0.5119110652643193,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,52,95.65,Credit card (automatic)
+9633-DENPU,0.5117679702919915,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,47,58.6,Bank transfer (automatic)
+2155-AMQRX,0.5107817168805827,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,28,54.9,Credit card (automatic)
+2446-ZKVAF,0.5100811117918383,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,18,56.8,Credit card (automatic)
+7130-CTCUS,0.5099632529839784,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,16,54.55,Bank transfer (automatic)
+5136-RGMZO,0.5098632682019023,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,31,71.05,Electronic check
+1452-KIOVK,0.5097963012885541,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,22,89.1,Credit card (automatic)
+9822-WMWVG,0.5089931337225455,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,41,106.5,Electronic check
+1169-WCVAK,0.5089715353741856,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,19,88.8,Credit card (automatic)
+9097-ZUBYC,0.5089659292563824,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,14,48.8,Bank transfer (automatic)
+2911-WDXMV,0.5088617580649578,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,18,80.55,Credit card (automatic)
+1370-GGAWX,0.508244138915806,Ưu tiên liên hệ giữ chân,One year,Fiber optic,46,94.15,Electronic check
+2924-KHUVI,0.5081681823429814,Ưu tiên liên hệ giữ chân,One year,Fiber optic,56,100.55,Electronic check
+3893-JRNFS,0.5079367910280564,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,68,39.9,Bank transfer (automatic)
+8033-VCZGH,0.5071993631230695,Ưu tiên liên hệ giữ chân,One year,Fiber optic,50,103.95,Electronic check
+2391-SOORI,0.5057525594660862,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,4,49.35,Electronic check
+7623-TRNQN,0.504989645168769,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,1,49.9,Mailed check
+4329-YPDDQ,0.5043535281147339,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,20,108.2,Bank transfer (automatic)
+1707-HABPF,0.5041128054351389,Ưu tiên liên hệ giữ chân,One year,Fiber optic,46,91.3,Bank transfer (automatic)
+5186-EJEGL,0.5039360427930838,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,9,69.5,Mailed check
+6080-TCMYC,0.5036487034295758,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,40,81.2,Electronic check
+1360-JYXKQ,0.5035652079660033,Ưu tiên liên hệ giữ chân,One year,Fiber optic,54,99.1,Electronic check
+6854-EXGSF,0.5033944299795268,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,8,65.5,Bank transfer (automatic)
+4672-FOTSD,0.5028657802006586,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,12,67.25,Electronic check
+3787-TRIAL,0.5028547406421343,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,21,26.05,Electronic check
+8212-DJRCH,0.5023978857930603,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,5,90.35,Mailed check
+2720-FVBQP,0.5021341357886325,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,6,48.95,Credit card (automatic)
+6890-PFRQX,0.5015670618147982,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,18,69.5,Mailed check
+2778-OCLGR,0.5003001532439103,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,24,39.1,Bank transfer (automatic)
+6284-KMNUF,0.500132745946448,Ưu tiên liên hệ giữ chân,One year,Fiber optic,56,98.0,Electronic check
+1217-VASWC,0.4996022740467697,Ưu tiên liên hệ giữ chân,One year,Fiber optic,43,100.55,Bank transfer (automatic)
+0471-ARVMX,0.4974112390354161,Ưu tiên liên hệ giữ chân,One year,Fiber optic,62,104.85,Electronic check
+8190-ZTQFB,0.49675558635567024,Ưu tiên liên hệ giữ chân,One year,DSL,41,51.35,Electronic check
+8059-UDZFY,0.4955842375781665,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,33,105.35,Bank transfer (automatic)
+3179-GBRWV,0.4943491601733568,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,21,64.95,Bank transfer (automatic)
+0870-VEMYL,0.49384268138223963,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,5,53.85,Credit card (automatic)
+6664-FPDAC,0.49359700451860644,Ưu tiên liên hệ giữ chân,One year,Fiber optic,56,111.95,Electronic check
+4468-YDOVK,0.4933969947232527,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,5,48.65,Bank transfer (automatic)
+4256-ZWTZI,0.4933906286131217,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,5,51.0,Mailed check
+4190-MFLUW,0.4930187859654347,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,10,55.2,Credit card (automatic)
+0363-QJVFX,0.4907936293277897,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,32,108.15,Credit card (automatic)
+7251-LJBQN,0.48950548208145334,Ưu tiên liên hệ giữ chân,One year,Fiber optic,40,103.75,Credit card (automatic)
+7250-EQKIY,0.48894712605932095,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,1,50.45,Mailed check
+2522-AHJXR,0.48802510699487295,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,60,109.45,Bank transfer (automatic)
+2480-EJWYP,0.4880199854057396,Ưu tiên liên hệ giữ chân,One year,Fiber optic,58,97.8,Bank transfer (automatic)
+3313-QKNKB,0.4879812587686078,Ưu tiên liên hệ giữ chân,One year,Fiber optic,59,85.55,Electronic check
+0365-TRTPY,0.4878035094630551,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,37,91.2,Bank transfer (automatic)
+5207-PLSTK,0.4876343781102716,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,1,48.75,Mailed check
+2293-IJWPS,0.48742250912701723,Ưu tiên liên hệ giữ chân,One year,Fiber optic,57,100.75,Credit card (automatic)
+5651-YLPRD,0.4869979918396787,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,32,86.1,Electronic check
+9420-LOJKX,0.4856540559188086,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,15,99.1,Credit card (automatic)
+7629-WIXZF,0.4850740897383327,Ưu tiên liên hệ giữ chân,One year,DSL,7,59.1,Electronic check
+3594-KADLU,0.4848290334444743,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,3,35.1,Mailed check
+9537-VHDTA,0.4839048163787414,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,1,51.2,Mailed check
+0895-LMRSF,0.48361792968363887,Ưu tiên liên hệ giữ chân,One year,DSL,23,64.9,Bank transfer (automatic)
+6815-ABQFQ,0.4825630650719323,Ưu tiên liên hệ giữ chân,One year,Fiber optic,56,107.25,Electronic check
+4753-PADAS,0.48251922646406525,Ưu tiên liên hệ giữ chân,One year,Fiber optic,67,105.7,Bank transfer (automatic)
+5482-NUPNA,0.4818135339305214,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,4,60.4,Mailed check
+7669-LCRSD,0.48104877362235965,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,12,56.3,Mailed check
+3339-EAQNV,0.479792945568783,Ưu tiên liên hệ giữ chân,One year,Fiber optic,72,97.25,Credit card (automatic)
+8840-DQLGN,0.4794101385312773,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,35,100.5,Bank transfer (automatic)
+9139-WQQDY,0.47911228277569345,Ưu tiên liên hệ giữ chân,One year,Fiber optic,49,100.45,Mailed check
+3780-YVMFA,0.4768623968497444,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,8,68.55,Electronic check
+5934-TSSAU,0.4760877535762639,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,23,75.3,Credit card (automatic)
+0719-SYFRB,0.47512749047883795,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,12,61.65,Mailed check
+0484-FFVBJ,0.47508542506376533,Ưu tiên liên hệ giữ chân,One year,DSL,32,64.85,Bank transfer (automatic)
+0289-IVARM,0.47359685041132565,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,35,60.55,Electronic check
+9481-SFCQY,0.4734409740518189,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,14,59.8,Credit card (automatic)
+9128-CPXKI,0.47305925645862984,Ưu tiên liên hệ giữ chân,Two year,Fiber optic,59,95.8,Electronic check
+7124-UGSUR,0.4728278430468229,Ưu tiên liên hệ giữ chân,One year,Fiber optic,61,104.4,Credit card (automatic)
+4524-QCSSM,0.4723485458304693,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,26,44.65,Bank transfer (automatic)
+9972-VAFJJ,0.472018280451974,Ưu tiên liên hệ giữ chân,One year,Fiber optic,53,94.0,Electronic check
+0013-MHZWF,0.47121565120217723,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,9,69.4,Credit card (automatic)
+5469-CTCWN,0.4705235720233929,Ưu tiên liên hệ giữ chân,One year,Fiber optic,61,106.0,Electronic check
+9040-KZVWO,0.47005779480059423,Ưu tiên liên hệ giữ chân,One year,Fiber optic,26,75.5,Bank transfer (automatic)
+3524-WQDSG,0.46967090620132135,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,43,99.3,Bank transfer (automatic)
+2748-MYRVK,0.4690488111070883,Ưu tiên liên hệ giữ chân,One year,Fiber optic,63,99.9,Bank transfer (automatic)
+0701-TJSEF,0.46893800054005763,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,9,68.25,Bank transfer (automatic)
+1110-KYLGQ,0.46848187270812164,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,63,108.25,Credit card (automatic)
+8671-KKKOS,0.4684502921179303,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,46,45.55,Electronic check
+7134-MJPDY,0.4681479481386532,Ưu tiên liên hệ giữ chân,One year,Fiber optic,66,102.85,Credit card (automatic)
+6075-QMNRR,0.46808710540225507,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,52,49.75,Bank transfer (automatic)
+0959-WHOKV,0.46772910596576217,Ưu tiên liên hệ giữ chân,One year,Fiber optic,42,99.0,Electronic check
+3325-FUYCG,0.46744386636980806,Ưu tiên liên hệ giữ chân,One year,Fiber optic,28,106.1,Electronic check
+8582-KRHPJ,0.4674236401017784,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,50,35.0,Mailed check
+2019-HDCZY,0.4639826138769657,Ưu tiên liên hệ giữ chân,Two year,Fiber optic,63,102.6,Electronic check
+1730-VFMWO,0.4621019988492881,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,34,50.2,Bank transfer (automatic)
+1852-XEMDW,0.4614130731972787,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,22,65.05,Mailed check
+9661-MHUMO,0.4611627095507178,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,1,49.25,Credit card (automatic)
+8450-JOVAH,0.4605478276357726,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,2,56.7,Mailed check
+3237-AJGEH,0.46045340081247504,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,3,31.0,Mailed check
+2252-JHJGE,0.4603554251124962,Ưu tiên liên hệ giữ chân,One year,Fiber optic,61,104.0,Electronic check
+9254-RBFON,0.4602792618031854,Ưu tiên liên hệ giữ chân,One year,Fiber optic,17,98.6,Bank transfer (automatic)
+2995-UPRYS,0.4597396105333651,Ưu tiên liên hệ giữ chân,One year,Fiber optic,40,99.2,Credit card (automatic)
+0665-XHDJU,0.4597191502180749,Ưu tiên liên hệ giữ chân,Two year,Fiber optic,72,99.4,Electronic check
+8378-LKJAF,0.4595840327510756,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,38,101.15,Credit card (automatic)
+6968-URWQU,0.45869788062610395,Ưu tiên liên hệ giữ chân,One year,DSL,43,56.35,Mailed check
+3173-NVMPX,0.4580262606007377,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,9,55.3,Mailed check
+6583-SZVGP,0.4579567143098536,Ưu tiên liên hệ giữ chân,Two year,Fiber optic,48,108.1,Bank transfer (automatic)
+7666-WKRON,0.45775156667659567,Ưu tiên liên hệ giữ chân,Two year,Fiber optic,39,80.45,Electronic check
+7426-WEIJX,0.45744352582962944,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,60,80.95,Electronic check
+8930-XOTDP,0.4567596039214705,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,18,55.95,Mailed check
+3523-QRQLL,0.45608988424167735,Ưu tiên liên hệ giữ chân,One year,DSL,22,69.5,Bank transfer (automatic)
+2758-RNWXS,0.45452231026353646,Ưu tiên liên hệ giữ chân,One year,Fiber optic,35,89.2,Electronic check
+2972-YDYUW,0.454127459125224,Ưu tiên liên hệ giữ chân,One year,Fiber optic,57,94.7,Electronic check
+3639-XJHKQ,0.45404410081166735,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,19,60.6,Electronic check
+2750-BJLSB,0.4536867381238803,Ưu tiên liên hệ giữ chân,One year,Fiber optic,47,103.7,Electronic check
+3466-WAESX,0.45320831370976195,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,16,69.1,Electronic check
+8089-UZWLX,0.45264492808014334,Ưu tiên liên hệ giữ chân,Two year,Fiber optic,71,104.05,Bank transfer (automatic)
+1097-FSPVW,0.4524343163027633,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,42,54.55,Credit card (automatic)
+4660-IRIBM,0.45210709003944344,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,18,87.9,Mailed check
+6777-TGHTM,0.45203760975242424,Ưu tiên liên hệ giữ chân,One year,Fiber optic,53,106.95,Credit card (automatic)
+8970-ANWXO,0.45186163328027135,Ưu tiên liên hệ giữ chân,One year,DSL,23,73.75,Mailed check
+5440-VHLUL,0.4514254287391086,Ưu tiên liên hệ giữ chân,One year,Fiber optic,69,105.2,Bank transfer (automatic)
+4947-DSMXK,0.4513862701863796,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,34,97.7,Bank transfer (automatic)
+9931-KGHOA,0.451384832767291,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,46,55.0,Bank transfer (automatic)
+6483-OATDN,0.4512054341362617,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,8,51.3,Credit card (automatic)
+1346-PJWTK,0.4510231090526663,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,61,94.15,Credit card (automatic)
+6784-XYJAE,0.45100748443449873,Ưu tiên liên hệ giữ chân,One year,DSL,36,55.8,Electronic check
+5240-CAOYT,0.4505511375938373,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,57,87.55,Bank transfer (automatic)
+6497-TILVL,0.45047299130956053,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,7,50.7,Mailed check
+2659-VXMWZ,0.44996911806147843,Ưu tiên liên hệ giữ chân,One year,Fiber optic,67,111.3,Electronic check
+8985-OOPOS,0.4489754352934967,Ưu tiên liên hệ giữ chân,One year,DSL,1,74.1,Credit card (automatic)
+1530-ZTDOZ,0.4488345615489447,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,49,40.65,Bank transfer (automatic)
+2001-EWBQU,0.4485079339134044,Ưu tiên liên hệ giữ chân,Two year,Fiber optic,60,104.7,Electronic check
+4075-JFPGR,0.44838538251071536,Ưu tiên liên hệ giữ chân,One year,Fiber optic,51,93.5,Electronic check
+9107-UKCKY,0.44798986886019193,Ưu tiên liên hệ giữ chân,One year,DSL,61,79.8,Electronic check
+9972-NKTFD,0.4470446568853523,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,28,54.65,Bank transfer (automatic)
+7879-CGSFV,0.44696949290819277,Ưu tiên liên hệ giữ chân,One year,Fiber optic,55,100.9,Mailed check
+0265-PSUAE,0.4460837631335013,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,16,100.7,Bank transfer (automatic)
+9089-UOWJG,0.44598965711125677,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,12,58.35,Credit card (automatic)
+5671-RQRLP,0.4457683784162846,Ưu tiên liên hệ giữ chân,Two year,Fiber optic,70,75.65,Credit card (automatic)
+5630-AHZIL,0.44437498061641906,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,3,64.5,Bank transfer (automatic)
+9033-EOXWV,0.4438742051112966,Ưu tiên liên hệ giữ chân,One year,DSL,12,74.05,Mailed check
+2040-OBMLJ,0.4430483330112871,Ưu tiên liên hệ giữ chân,One year,Fiber optic,31,81.7,Credit card (automatic)
+9378-FXTIZ,0.4429390990679367,Ưu tiên liên hệ giữ chân,One year,DSL,54,70.15,Credit card (automatic)
+0447-BEMNG,0.44273614265206457,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,48,45.3,Bank transfer (automatic)
+7691-XVTZH,0.4407457233864472,Ưu tiên liên hệ giữ chân,Two year,Fiber optic,68,89.95,Bank transfer (automatic)
+6968-MHOMU,0.44002663068508524,Ưu tiên liên hệ giữ chân,One year,DSL,58,45.0,Credit card (automatic)
+7789-CRUVC,0.43978855734876837,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,61,94.2,Credit card (automatic)
+7159-NOKYQ,0.43920269995533645,Ưu tiên liên hệ giữ chân,Two year,Fiber optic,67,93.15,Electronic check
+4016-BJKTZ,0.439197391160519,Ưu tiên liên hệ giữ chân,Two year,Fiber optic,25,108.9,Electronic check
+6773-LQTVT,0.4390679869799961,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,29,35.65,Mailed check
+8166-ORCHU,0.4389187216706011,Ưu tiên liên hệ giữ chân,One year,Fiber optic,33,93.55,Electronic check
+6383-ZTSIW,0.43796129323244026,Ưu tiên liên hệ giữ chân,One year,Fiber optic,39,99.1,Mailed check
+6900-RBKER,0.4375651232072542,Ưu tiên liên hệ giữ chân,Two year,Fiber optic,52,89.45,Credit card (automatic)
+4079-VTGLK,0.43643673305344616,Ưu tiên liên hệ giữ chân,Two year,DSL,30,74.85,Electronic check
+5155-AZQPB,0.43639762710352337,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,28,49.9,Mailed check
+4701-AHWMW,0.43629352187698023,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,55,54.55,Bank transfer (automatic)
+3896-RCYYE,0.4355433267731504,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,67,53.4,Credit card (automatic)
+0913-XWSCN,0.4347629464389399,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,55,85.5,Bank transfer (automatic)
+0516-UXRMT,0.4340617532625398,Ưu tiên liên hệ giữ chân,One year,Fiber optic,62,92.05,Electronic check
+9700-ISPUP,0.43378059211149306,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,10,65.5,Electronic check
+2746-DIJLO,0.4333511673841221,Ưu tiên liên hệ giữ chân,One year,DSL,41,56.3,Credit card (automatic)
+3858-XHYJO,0.4330037829471726,Ưu tiên liên hệ giữ chân,One year,Fiber optic,40,105.75,Bank transfer (automatic)
+6933-FHBZC,0.43283237244385075,Ưu tiên liên hệ giữ chân,One year,DSL,26,56.05,Mailed check
+0997-YTLNY,0.43022012762177053,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,19,48.8,Mailed check
+5360-LJCNJ,0.4300324858434847,Ưu tiên liên hệ giữ chân,Two year,Fiber optic,71,105.15,Bank transfer (automatic)
+9308-ANMVE,0.4294014602047864,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,47,55.3,Electronic check
+9842-EFSYY,0.42909397476953337,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,4,57.2,Mailed check
+1360-XFJMR,0.4265395586427273,Ưu tiên liên hệ giữ chân,One year,Fiber optic,67,109.7,Credit card (automatic)
+4759-PXTAN,0.4265113029290965,Ưu tiên liên hệ giữ chân,One year,DSL,59,80.1,Electronic check
+9544-PYPSJ,0.42555043946817583,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,62,96.1,Credit card (automatic)
+6733-LRIZX,0.42543044138418923,Ưu tiên liên hệ giữ chân,Two year,Fiber optic,35,108.95,Electronic check
+4332-MUOEZ,0.4250849840499711,Ưu tiên liên hệ giữ chân,One year,Fiber optic,20,94.3,Credit card (automatic)
+5966-EMAZU,0.42459360351600034,Ưu tiên liên hệ giữ chân,One year,Fiber optic,64,108.5,Mailed check
+5949-EBSQK,0.4245021801663031,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,4,61.45,Credit card (automatic)
+5236-XMZJY,0.42402480152750455,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,42,59.65,Bank transfer (automatic)
+7036-TYDEC,0.423742590432057,Ưu tiên liên hệ giữ chân,Two year,Fiber optic,69,104.0,Electronic check
+4323-SADQS,0.423477451347996,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,7,34.5,Electronic check
+7997-EASSD,0.423230632715985,Ưu tiên liên hệ giữ chân,One year,Fiber optic,63,81.2,Credit card (automatic)
+5140-FOMCQ,0.42202263375918586,Ưu tiên liên hệ giữ chân,One year,Fiber optic,59,109.15,Credit card (automatic)
+2212-LYASK,0.42138055212422637,Ưu tiên liên hệ giữ chân,One year,DSL,27,45.85,Credit card (automatic)
+7750-EYXWZ,0.42104013388421824,Ưu tiên liên hệ giữ chân,One year,DSL,12,60.65,Electronic check
+3729-OWRVL,0.4207272943498834,Ưu tiên liên hệ giữ chân,Two year,Fiber optic,65,110.35,Electronic check
+0486-HECZI,0.4204315769222929,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,55,96.75,Electronic check
+9480-BQJEI,0.4196900842916815,Ưu tiên liên hệ giữ chân,One year,Fiber optic,62,92.3,Bank transfer (automatic)
+9909-DFRJA,0.4192975845649877,Ưu tiên liên hệ giữ chân,One year,Fiber optic,26,95.85,Bank transfer (automatic)
+6568-POCUI,0.41716458274185547,Ưu tiên liên hệ giữ chân,Two year,Fiber optic,45,95.2,Credit card (automatic)
+2001-MCUUW,0.4161951088215249,Ưu tiên liên hệ giữ chân,Two year,Fiber optic,46,108.65,Electronic check
+4937-QPZPO,0.4148993154415028,Ưu tiên liên hệ giữ chân,One year,Fiber optic,61,99.9,Electronic check
+2294-DMMUS,0.4144966054323547,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,62,70.45,Credit card (automatic)
+0297-RBCSG,0.4138473230625915,Ưu tiên liên hệ giữ chân,One year,DSL,19,65.35,Bank transfer (automatic)
+8034-RYTVV,0.4132054325220826,Ưu tiên liên hệ giữ chân,One year,Fiber optic,55,84.25,Credit card (automatic)
+6797-LNAQX,0.41270336439369304,Ưu tiên liên hệ giữ chân,Two year,Fiber optic,70,98.3,Bank transfer (automatic)
+2307-FYNNL,0.4125965917216641,Ưu tiên liên hệ giữ chân,Two year,Fiber optic,65,109.05,Electronic check
+6366-XIVKZ,0.4120784888216167,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,13,63.15,Mailed check
+3733-UOCWF,0.4120270190863831,Ưu tiên liên hệ giữ chân,One year,Fiber optic,61,85.55,Bank transfer (automatic)
+0440-UEDAI,0.411912611968604,Ưu tiên liên hệ giữ chân,One year,Fiber optic,53,94.45,Credit card (automatic)
+8727-XDPUD,0.4115524836636408,Ưu tiên liên hệ giữ chân,Two year,DSL,37,35.8,Credit card (automatic)
+2165-VOEGB,0.4107327181053895,Ưu tiên liên hệ giữ chân,One year,Fiber optic,46,105.2,Bank transfer (automatic)
+5804-HYIEZ,0.41052656085699957,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,70,106.05,Electronic check
+7395-XWZOY,0.41030891802152203,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,20,55.0,Credit card (automatic)
+5081-NWSUP,0.40998736433218325,Ưu tiên liên hệ giữ chân,One year,DSL,10,64.9,Mailed check
+2930-UOTMB,0.4092001161711357,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,31,65.25,Credit card (automatic)
+0373-AIVNJ,0.4078807664671696,Ưu tiên liên hệ giữ chân,One year,DSL,9,39.55,Mailed check
+8849-GYOKR,0.4078394375515273,Ưu tiên liên hệ giữ chân,One year,Fiber optic,54,106.55,Bank transfer (automatic)
+1395-OFUWC,0.4060910376895002,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,43,29.3,Credit card (automatic)
+2250-IVBWA,0.405517013888688,Ưu tiên liên hệ giữ chân,Month-to-month,Fiber optic,64,81.05,Electronic check
+4353-HYOJD,0.4054563869510562,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,27,49.85,Mailed check
+2511-MORQY,0.40495058721468685,Ưu tiên liên hệ giữ chân,One year,DSL,50,54.9,Bank transfer (automatic)
+6734-FQAJX,0.40445516505159473,Ưu tiên liên hệ giữ chân,Two year,Fiber optic,67,105.05,Electronic check
+8409-WQJUX,0.40440438793754185,Ưu tiên liên hệ giữ chân,One year,DSL,25,54.2,Electronic check
+9412-ARGBX,0.4033618827749117,Ưu tiên liên hệ giữ chân,Two year,Fiber optic,48,95.5,Mailed check
+4501-UYKBC,0.4018242156003703,Ưu tiên liên hệ giữ chân,One year,DSL,46,69.1,Credit card (automatic)
+2533-QVMSK,0.4015893351740316,Ưu tiên liên hệ giữ chân,Two year,Fiber optic,61,94.1,Electronic check
+9013-AQORL,0.4013703314794624,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,48,45.55,Credit card (automatic)
+0983-TATYJ,0.4006734399298565,Ưu tiên liên hệ giữ chân,One year,DSL,33,51.45,Mailed check
+7233-IOQNP,0.4005312554493002,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,43,34.0,Bank transfer (automatic)
+3780-DDGSE,0.4001355202034705,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,35,76.05,Electronic check
+9906-NHHVC,0.4000825238363827,Ưu tiên liên hệ giữ chân,Two year,DSL,65,53.5,Bank transfer (automatic)
+4137-JOPHL,0.39922373623594054,Ưu tiên liên hệ giữ chân,Two year,Fiber optic,50,89.7,Bank transfer (automatic)
+5161-XEUVX,0.3990426628456888,Ưu tiên liên hệ giữ chân,Two year,Fiber optic,37,94.3,Mailed check
+4039-PIMHX,0.39807532615932284,Ưu tiên liên hệ giữ chân,Two year,DSL,49,49.8,Mailed check
+9039-RBEEE,0.3977615354513418,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,39,48.95,Credit card (automatic)
+9357-UJRUN,0.39763609271593936,Ưu tiên liên hệ giữ chân,One year,DSL,24,58.35,Electronic check
+9926-PJHDQ,0.3969237890327378,Ưu tiên liên hệ giữ chân,Two year,DSL,72,76.8,Bank transfer (automatic)
+5297-MDOIR,0.39687896129292854,Ưu tiên liên hệ giữ chân,One year,Fiber optic,63,81.15,Credit card (automatic)
+0327-WFZSY,0.39663467709363653,Ưu tiên liên hệ giữ chân,One year,Fiber optic,39,100.0,Electronic check
+1956-YIFGE,0.39613637049931655,Ưu tiên liên hệ giữ chân,One year,Fiber optic,22,100.05,Mailed check
+5445-PZWGX,0.39514119128496183,Ưu tiên liên hệ giữ chân,One year,Fiber optic,62,102.0,Electronic check
+6682-QJDGB,0.39506452610506476,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,40,55.25,Mailed check
+8646-JCOMS,0.39376797943761743,Ưu tiên liên hệ giữ chân,One year,Fiber optic,66,90.55,Bank transfer (automatic)
+6198-PNNSZ,0.39274468389722084,Ưu tiên liên hệ giữ chân,One year,Fiber optic,56,109.8,Bank transfer (automatic)
+0134-XWXCE,0.3926705376058473,Ưu tiên liên hệ giữ chân,One year,DSL,44,74.85,Bank transfer (automatic)
+1271-UODNO,0.3916755911530613,Ưu tiên liên hệ giữ chân,Two year,DSL,39,53.85,Credit card (automatic)
+3926-YZVVX,0.39120266212732085,Ưu tiên liên hệ giữ chân,One year,DSL,41,50.05,Bank transfer (automatic)
+3680-CTHUH,0.3888117368703076,Ưu tiên liên hệ giữ chân,One year,Fiber optic,60,116.6,Credit card (automatic)
+6297-NOOPG,0.38856672247549023,Ưu tiên liên hệ giữ chân,Two year,Fiber optic,70,110.5,Electronic check
+2522-WLNSF,0.3885459620882709,Ưu tiên liên hệ giữ chân,One year,DSL,34,64.2,Bank transfer (automatic)
+8400-WZICQ,0.38740037121119236,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,55,55.7,Electronic check
+7654-YWJUF,0.38731725171851017,Ưu tiên liên hệ giữ chân,One year,Fiber optic,43,84.25,Bank transfer (automatic)
+5236-PERKL,0.3868502526434879,Ưu tiên liên hệ giữ chân,Two year,Fiber optic,57,112.95,Bank transfer (automatic)
+5027-YOCXN,0.386687048986646,Ưu tiên liên hệ giữ chân,One year,Fiber optic,51,110.05,Credit card (automatic)
+9586-JGQKH,0.3863107882352806,Ưu tiên liên hệ giữ chân,Two year,Fiber optic,64,105.4,Bank transfer (automatic)
+3354-OADJP,0.3858328000197584,Ưu tiên liên hệ giữ chân,One year,DSL,8,54.25,Bank transfer (automatic)
+6559-RAKOZ,0.3839966302216828,Ưu tiên liên hệ giữ chân,One year,Fiber optic,49,97.95,Electronic check
+6766-HFKLA,0.3835468124677266,Ưu tiên liên hệ giữ chân,Two year,Fiber optic,56,103.2,Bank transfer (automatic)
+1470-PSXNM,0.3833321464319859,Ưu tiên liên hệ giữ chân,One year,Fiber optic,49,93.65,Electronic check
+9143-CANJF,0.3820461996402378,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,24,55.15,Electronic check
+4223-BKEOR,0.38169078268303325,Ưu tiên liên hệ giữ chân,One year,DSL,21,64.85,Mailed check
+1545-JFUML,0.3809966508114915,Ưu tiên liên hệ giữ chân,Two year,Fiber optic,71,99.0,Electronic check
+7032-LMBHI,0.38009772740654285,Ưu tiên liên hệ giữ chân,One year,DSL,37,64.65,Bank transfer (automatic)
+4785-QRJHC,0.3799676584789685,Ưu tiên liên hệ giữ chân,One year,DSL,46,59.9,Bank transfer (automatic)
+2325-ZUSFD,0.3797039338756367,Ưu tiên liên hệ giữ chân,One year,DSL,57,70.1,Bank transfer (automatic)
+2272-WUSPA,0.3788918508972629,Ưu tiên liên hệ giữ chân,Two year,Fiber optic,72,110.75,Electronic check
+0536-ACXIP,0.37860386740489377,Ưu tiên liên hệ giữ chân,Two year,Fiber optic,72,109.55,Electronic check
+6726-NNFWD,0.37823473675972785,Ưu tiên liên hệ giữ chân,Two year,Fiber optic,71,89.45,Credit card (automatic)
+1174-FGIFN,0.37799533681698333,Ưu tiên liên hệ giữ chân,One year,Fiber optic,28,90.45,Electronic check
+3055-VTCGS,0.3775644367300939,Ưu tiên liên hệ giữ chân,One year,DSL,63,58.55,Credit card (automatic)
+9405-GPBBG,0.3772227664738451,Ưu tiên liên hệ giữ chân,Two year,Fiber optic,64,110.5,Credit card (automatic)
+9052-DHNKM,0.377073427523982,Ưu tiên liên hệ giữ chân,One year,DSL,26,61.55,Electronic check
+1936-CZAKF,0.37630049498807233,Ưu tiên liên hệ giữ chân,Two year,DSL,49,49.65,Credit card (automatic)
+2676-SSLTO,0.37629186614090104,Ưu tiên liên hệ giữ chân,Two year,DSL,49,66.15,Bank transfer (automatic)
+1525-LNLOJ,0.3757048508468978,Ưu tiên liên hệ giữ chân,Two year,DSL,66,63.3,Bank transfer (automatic)
+1240-KNSEZ,0.3755082317244291,Ưu tiên liên hệ giữ chân,Month-to-month,No,1,20.1,Mailed check
+5753-QQWPW,0.3753483658427506,Ưu tiên liên hệ giữ chân,One year,DSL,28,59.9,Electronic check
+4751-ERMAN,0.375291539043276,Ưu tiên liên hệ giữ chân,Two year,DSL,72,75.4,Bank transfer (automatic)
+7191-ADRGF,0.37519727519666946,Ưu tiên liên hệ giữ chân,Two year,DSL,44,54.3,Bank transfer (automatic)
+0727-BNRLG,0.37477202258332504,Ưu tiên liên hệ giữ chân,Two year,Fiber optic,69,97.65,Credit card (automatic)
+7690-KPNCU,0.3745285898654138,Ưu tiên liên hệ giữ chân,One year,DSL,64,73.05,Credit card (automatic)
+4002-BQWPQ,0.37379872980139583,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,25,81.75,Bank transfer (automatic)
+3567-PQTSO,0.3735380255711311,Ưu tiên liên hệ giữ chân,One year,Fiber optic,53,105.25,Electronic check
+8570-KLJYJ,0.37353057062194245,Ưu tiên liên hệ giữ chân,One year,DSL,36,54.45,Mailed check
+5446-DKWYW,0.37346729988115757,Ưu tiên liên hệ giữ chân,One year,DSL,61,65.2,Electronic check
+0074-HDKDG,0.37334924551059506,Ưu tiên liên hệ giữ chân,One year,DSL,25,61.6,Bank transfer (automatic)
+9138-EFSMO,0.3732158496124159,Ưu tiên liên hệ giữ chân,One year,Fiber optic,26,78.95,Bank transfer (automatic)
+9209-NWPGU,0.37300641701107956,Ưu tiên liên hệ giữ chân,One year,DSL,44,65.4,Electronic check
+3948-FVVRP,0.37232490459222467,Ưu tiên liên hệ giữ chân,Month-to-month,DSL,9,54.8,Mailed check
+9866-OCCKE,0.37019878089646113,Ưu tiên liên hệ giữ chân,Two year,Fiber optic,72,109.75,Mailed check
+1622-HSHSF,0.369209328805633,Theo dõi,Month-to-month,No,1,19.55,Mailed check
+2369-FEVNO,0.36844796001975566,Theo dõi,Month-to-month,No,1,19.9,Mailed check
+8777-PVYGU,0.3683861701819089,Theo dõi,One year,DSL,52,64.3,Mailed check
+0019-EFAEP,0.3683812916661515,Theo dõi,Two year,Fiber optic,72,101.3,Bank transfer (automatic)
+0628-CNQRM,0.3681270046255369,Theo dõi,One year,DSL,22,67.5,Bank transfer (automatic)
+0257-KXZGU,0.3679077802454841,Theo dõi,Month-to-month,DSL,32,62.45,Bank transfer (automatic)
+4667-OHGKG,0.36787989171344676,Theo dõi,Month-to-month,No,1,19.3,Mailed check
+5701-GUXDC,0.36782716875038757,Theo dõi,One year,DSL,26,35.4,Credit card (automatic)
+0048-LUMLS,0.36775292499948464,Theo dõi,One year,Fiber optic,37,91.2,Credit card (automatic)
+6473-ULUHT,0.3672541189890896,Theo dõi,Month-to-month,DSL,16,84.9,Electronic check
+2091-MJTFX,0.3668330380626935,Theo dõi,Month-to-month,DSL,30,51.2,Credit card (automatic)
+9289-LBQVU,0.3664961610017749,Theo dõi,One year,DSL,64,70.15,Mailed check
+3594-UVONA,0.36629545888124715,Theo dõi,One year,DSL,35,85.95,Credit card (automatic)
+9330-VOFSZ,0.3656025414430437,Theo dõi,Two year,Fiber optic,60,110.8,Credit card (automatic)
+3442-ZHHCC,0.364490863132253,Theo dõi,One year,DSL,68,76.9,Credit card (automatic)
+7572-KPVKK,0.36446329837013036,Theo dõi,Two year,Fiber optic,62,104.05,Electronic check
+9473-CBZOP,0.3639743382918891,Theo dõi,One year,DSL,28,59.0,Mailed check
+9220-ZNKJI,0.36396793040003794,Theo dõi,Two year,Fiber optic,55,88.8,Credit card (automatic)
+7581-EBBOU,0.3638994843246042,Theo dõi,One year,DSL,60,70.15,Credit card (automatic)
+8741-LQOBK,0.3633186507324249,Theo dõi,Month-to-month,DSL,46,35.05,Bank transfer (automatic)
+1264-FUHCX,0.3629744793315377,Theo dõi,One year,DSL,49,56.3,Credit card (automatic)
+1074-AMIOH,0.36289358199970984,Theo dõi,Month-to-month,Fiber optic,53,108.25,Bank transfer (automatic)
+3229-USWAR,0.3622646719757273,Theo dõi,One year,DSL,34,79.95,Bank transfer (automatic)
+1136-XGEQU,0.3621248198892818,Theo dõi,One year,DSL,50,84.15,Credit card (automatic)
+4184-VODJZ,0.36193536836587853,Theo dõi,One year,Fiber optic,63,91.35,Electronic check
+7492-TAFJD,0.36182254634869615,Theo dõi,Two year,DSL,7,38.55,Mailed check
+8992-CEUEN,0.3606452438768043,Theo dõi,Month-to-month,No,1,18.85,Electronic check
+8433-WPJTV,0.36040965409149556,Theo dõi,One year,Fiber optic,65,103.9,Bank transfer (automatic)
+9720-JJJOR,0.36038316050578123,Theo dõi,One year,DSL,41,60.3,Bank transfer (automatic)
+5709-LVOEQ,0.3602982001697812,Theo dõi,Two year,DSL,0,80.85,Mailed check
+4717-GHADL,0.3596892834769456,Theo dõi,Two year,DSL,50,79.6,Mailed check
+0979-MOZQI,0.3595271757162272,Theo dõi,Two year,DSL,62,39.0,Bank transfer (automatic)
+7375-WMVMT,0.35925865953575803,Theo dõi,Two year,Fiber optic,71,95.5,Credit card (automatic)
+1493-AMTIE,0.35860632876995524,Theo dõi,Month-to-month,No,1,20.2,Bank transfer (automatic)
+1122-YJBCS,0.35823886842518715,Theo dõi,One year,DSL,69,53.65,Credit card (automatic)
+6770-XUAGN,0.3580474436312561,Theo dõi,Month-to-month,No,1,21.0,Electronic check
+9917-KWRBE,0.3579018088830564,Theo dõi,One year,DSL,41,78.35,Credit card (automatic)
+7893-IXHRQ,0.35777741494437637,Theo dõi,Month-to-month,No,1,20.55,Electronic check
+5524-KHNJP,0.3566381298902824,Theo dõi,One year,DSL,33,74.75,Credit card (automatic)
+2798-NYLMZ,0.3566156036191115,Theo dõi,Two year,Fiber optic,71,108.55,Credit card (automatic)
+0164-APGRB,0.3564140270785254,Theo dõi,Two year,Fiber optic,72,114.9,Electronic check
+4489-SNOJF,0.35620063793915535,Theo dõi,Month-to-month,DSL,35,72.25,Electronic check
+8620-RJPZN,0.3561679876710069,Theo dõi,Month-to-month,No,1,20.7,Electronic check
+0725-CXOTM,0.35611888265054653,Theo dõi,One year,DSL,36,89.65,Credit card (automatic)
+2955-PSXOE,0.35604056907542786,Theo dõi,Month-to-month,No,1,20.2,Bank transfer (automatic)
+7636-PEPNS,0.35564352905717,Theo dõi,One year,DSL,58,44.1,Mailed check
+2188-SXWVT,0.3553488768803985,Theo dõi,One year,DSL,34,55.0,Mailed check
+2668-TZSPS,0.3547258809010281,Theo dõi,Month-to-month,No,1,20.45,Mailed check
+4377-VDHYI,0.3540700322943501,Theo dõi,One year,Fiber optic,32,90.8,Electronic check
+1444-VVSGW,0.3537813936085646,Theo dõi,One year,Fiber optic,70,115.65,Credit card (automatic)
+5049-MUBWG,0.35296327024965535,Theo dõi,One year,DSL,26,75.0,Bank transfer (automatic)
+7919-ZODZZ,0.3521274850186854,Theo dõi,One year,DSL,10,65.9,Mailed check
+6286-SUUWT,0.35199171719333205,Theo dõi,Month-to-month,No,1,19.95,Mailed check
+9122-UMROB,0.3513620280466885,Theo dõi,Month-to-month,No,1,20.3,Mailed check
+5766-ZJYBB,0.35059324932114144,Theo dõi,Month-to-month,No,1,19.4,Mailed check
+7803-XOCCZ,0.3503936723844842,Theo dõi,Month-to-month,Fiber optic,52,84.05,Bank transfer (automatic)
+8401-EMUWF,0.35014853681738956,Theo dõi,Month-to-month,DSL,42,69.4,Bank transfer (automatic)
+6872-HXFNF,0.34981273806801527,Theo dõi,One year,DSL,64,58.35,Bank transfer (automatic)
+4892-VLANZ,0.34956922582305244,Theo dõi,Month-to-month,No,1,19.8,Mailed check
+7239-HZZCX,0.3492788053182309,Theo dõi,Month-to-month,No,1,19.75,Mailed check
+1963-VAUKV,0.34917271436327924,Theo dõi,Month-to-month,No,1,20.4,Mailed check
+9351-HXDMR,0.34851554841301696,Theo dõi,Two year,Fiber optic,72,110.9,Credit card (automatic)
+4013-GUXND,0.34796038090010656,Theo dõi,Month-to-month,No,1,20.8,Mailed check
+0868-VJRDR,0.34758663975849463,Theo dõi,Two year,Fiber optic,64,104.05,Credit card (automatic)
+2323-ARSVR,0.34701333298468,Theo dõi,Two year,Fiber optic,67,111.05,Electronic check
+3976-NLDEZ,0.3468216295628271,Theo dõi,Month-to-month,No,1,20.6,Mailed check
+6421-SZVEM,0.34677641273387944,Theo dõi,One year,Fiber optic,28,82.85,Bank transfer (automatic)
+9844-FELAJ,0.346622975543861,Theo dõi,One year,Fiber optic,70,107.9,Electronic check
+4211-MMAZN,0.34642907693077485,Theo dõi,Month-to-month,No,1,20.25,Mailed check
+6654-QGBZZ,0.3464182840871022,Theo dõi,Month-to-month,No,1,19.9,Mailed check
+7853-WNZSY,0.3457673453679256,Theo dõi,Month-to-month,No,1,19.75,Credit card (automatic)
+4627-MIHJH,0.34548698959477653,Theo dõi,Two year,Fiber optic,69,110.25,Credit card (automatic)
+3930-ZGWVE,0.3454083116690536,Theo dõi,Month-to-month,No,1,19.75,Mailed check
+1015-OWJKI,0.34530871770745064,Theo dõi,Month-to-month,No,1,19.05,Mailed check
+8819-ZBYNA,0.34528737947548654,Theo dõi,Two year,Fiber optic,58,109.1,Credit card (automatic)
+7641-TQFHN,0.3450453767665811,Theo dõi,Two year,Fiber optic,39,100.55,Mailed check
+1194-SPVSP,0.3447495990238182,Theo dõi,Month-to-month,No,1,19.65,Bank transfer (automatic)
+9758-MFWGD,0.3447339633886752,Theo dõi,One year,DSL,48,29.9,Bank transfer (automatic)
+9070-BCKQP,0.34463576264187656,Theo dõi,Two year,Fiber optic,72,110.15,Credit card (automatic)
+8749-CLJXC,0.34408630144367713,Theo dõi,Month-to-month,No,1,20.05,Mailed check
+5245-VDBUR,0.3436353156446376,Theo dõi,One year,DSL,52,35.45,Mailed check
+0516-OOHAR,0.3428349262903263,Theo dõi,One year,Fiber optic,28,100.35,Bank transfer (automatic)
+5271-YNWVR,0.3423720885578361,Theo dõi,Two year,Fiber optic,68,113.15,Electronic check
+2692-PFYTJ,0.341975007854195,Theo dõi,Month-to-month,No,1,25.75,Mailed check
+1150-WFARN,0.34189555200122546,Theo dõi,Two year,Fiber optic,67,108.75,Credit card (automatic)
+1492-QGCLU,0.341702428439527,Theo dõi,Month-to-month,DSL,53,85.7,Electronic check
+6388-TABGU,0.3416047234145637,Theo dõi,One year,DSL,62,56.15,Bank transfer (automatic)
+8869-TORSS,0.3413836031525107,Theo dõi,One year,DSL,48,60.35,Credit card (automatic)
+9822-BIIGN,0.34086887580759007,Theo dõi,Month-to-month,DSL,53,71.85,Electronic check
+4648-YPBTM,0.34061457562880215,Theo dõi,Two year,DSL,53,73.9,Bank transfer (automatic)
+7838-LAZFO,0.34023141411817853,Theo dõi,One year,DSL,45,78.8,Bank transfer (automatic)
+3649-JPUGY,0.33977474198193625,Theo dõi,Two year,DSL,72,88.6,Bank transfer (automatic)
+4700-UBQMV,0.3395901530964862,Theo dõi,One year,DSL,21,75.9,Bank transfer (automatic)
+1023-BQXZE,0.33936736284280306,Theo dõi,Two year,DSL,57,74.35,Bank transfer (automatic)
+4160-AMJTL,0.338973019531043,Theo dõi,Month-to-month,No,8,19.65,Electronic check
+9330-DHBFL,0.33884197826800866,Theo dõi,One year,DSL,23,66.25,Mailed check
+6461-PPAXN,0.33869391534790727,Theo dõi,One year,DSL,35,54.95,Bank transfer (automatic)
+7663-CUXZB,0.33840683894067686,Theo dõi,Two year,Fiber optic,59,113.75,Electronic check
+2834-JKOOW,0.33808930265172465,Theo dõi,One year,DSL,15,45.9,Mailed check
+0121-SNYRK,0.33765750776546777,Theo dõi,One year,DSL,50,35.4,Mailed check
+2245-ADZFJ,0.33733915899651346,Theo dõi,Two year,DSL,31,80.55,Bank transfer (automatic)
+5018-LXQQG,0.33693272415387376,Theo dõi,Month-to-month,DSL,30,66.3,Bank transfer (automatic)
+8782-NUUOL,0.336928837078929,Theo dõi,One year,DSL,60,79.0,Mailed check
+1936-UAFEH,0.33659458102339523,Theo dõi,Two year,Fiber optic,68,110.25,Credit card (automatic)
+0106-UGRDO,0.33628589711098966,Theo dõi,Two year,Fiber optic,69,116.0,Electronic check
+0866-QLSIR,0.3359411890895215,Theo dõi,One year,DSL,34,64.4,Mailed check
+1855-CFULU,0.3352559891313437,Theo dõi,Month-to-month,No,4,20.05,Mailed check
+8809-XKHMD,0.3349660393367539,Theo dõi,Two year,Fiber optic,72,100.55,Bank transfer (automatic)
+5473-KHBPS,0.334461186589593,Theo dõi,One year,Fiber optic,52,95.7,Credit card (automatic)
+0980-FEXWF,0.3344501451108185,Theo dõi,One year,DSL,26,50.35,Mailed check
+0707-HOVVN,0.3343567265583996,Theo dõi,Two year,DSL,70,75.5,Bank transfer (automatic)
+4560-WQAQW,0.3331403436057503,Theo dõi,One year,DSL,59,68.7,Bank transfer (automatic)
+6064-ZATLR,0.3328955162833771,Theo dõi,Two year,DSL,27,52.85,Bank transfer (automatic)
+4500-HKANN,0.33288610173162864,Theo dõi,Two year,DSL,23,59.7,Mailed check
+4693-VWVBO,0.33283805047625026,Theo dõi,Month-to-month,No,3,19.55,Electronic check
+2969-WGHQO,0.33273439527868043,Theo dõi,One year,DSL,7,69.45,Electronic check
+7520-HQWJU,0.33199598080193765,Theo dõi,Month-to-month,DSL,66,67.45,Bank transfer (automatic)
+6681-ZSEXG,0.33199580031958287,Theo dõi,Two year,DSL,56,59.5,Credit card (automatic)
+9715-WZCLW,0.3316881225968838,Theo dõi,Two year,Fiber optic,71,97.2,Electronic check
+9610-WCESF,0.3312891552972808,Theo dõi,Two year,DSL,67,43.9,Electronic check
+9359-UGBTK,0.33097039885206925,Theo dõi,One year,DSL,67,72.35,Bank transfer (automatic)
+5893-PYOLZ,0.3306864681180226,Theo dõi,Two year,DSL,56,81.8,Credit card (automatic)
+1090-ESELR,0.33057208925774567,Theo dõi,Two year,Fiber optic,72,105.5,Bank transfer (automatic)
+6919-ELBGL,0.330208978008479,Theo dõi,Two year,Fiber optic,72,114.95,Bank transfer (automatic)
+0377-JBKKT,0.3299878153687849,Theo dõi,Month-to-month,DSL,22,57.95,Mailed check
+5566-SOEZD,0.32979797320006504,Theo dõi,One year,Fiber optic,27,80.65,Credit card (automatic)
+2408-PSJVE,0.3294433503468415,Theo dõi,Month-to-month,DSL,44,61.9,Mailed check
+4419-UJMUS,0.32928417345069616,Theo dõi,Two year,Fiber optic,69,99.35,Electronic check
+5574-NXZIU,0.32891722998600265,Theo dõi,Two year,Fiber optic,63,109.2,Credit card (automatic)
+1087-UDSIH,0.32879620724170955,Theo dõi,Month-to-month,No,3,19.6,Mailed check
+1265-HVPZB,0.32841436116508577,Theo dõi,One year,DSL,59,66.4,Credit card (automatic)
+6194-HBGQN,0.32834490946102085,Theo dõi,One year,DSL,51,81.15,Credit card (automatic)
+0076-LVEPS,0.3282549138745566,Theo dõi,Month-to-month,DSL,29,45.0,Mailed check
+7971-HLVXI,0.3271781464203447,Theo dõi,Two year,Fiber optic,72,84.5,Credit card (automatic)
+3594-IVHJZ,0.3269035990598556,Theo dõi,Month-to-month,No,2,20.45,Mailed check
+0230-UBYPQ,0.3268054085556934,Theo dõi,One year,DSL,63,36.1,Bank transfer (automatic)
+7338-ERIVA,0.32667180724448214,Theo dõi,One year,DSL,39,45.05,Bank transfer (automatic)
+4396-KLSEH,0.3263277829271983,Theo dõi,Month-to-month,No,4,19.85,Electronic check
+4973-RLZVI,0.32487290964333193,Theo dõi,One year,DSL,30,74.65,Credit card (automatic)
+1051-GEJLJ,0.3241891098555287,Theo dõi,Month-to-month,No,2,19.5,Mailed check
+2368-GAKKQ,0.32336564422477165,Theo dõi,Two year,Fiber optic,70,113.65,Bank transfer (automatic)
+5170-PTRKA,0.3231365881897238,Theo dõi,One year,DSL,49,35.8,Credit card (automatic)
+5014-WUQMG,0.3220982276832607,Theo dõi,One year,Fiber optic,47,96.1,Electronic check
+6322-HRPFA,0.32198460597369555,Theo dõi,Month-to-month,DSL,49,59.6,Credit card (automatic)
+8024-XNAFQ,0.3219434947058791,Theo dõi,Two year,Fiber optic,72,107.4,Bank transfer (automatic)
+2388-LAESQ,0.3218139081326946,Theo dõi,Two year,Fiber optic,72,114.85,Bank transfer (automatic)
+3090-QFUVD,0.32051223974494314,Theo dõi,Month-to-month,No,1,20.3,Credit card (automatic)
+4737-HOBAX,0.32027610909052284,Theo dõi,Two year,DSL,63,79.8,Credit card (automatic)
+9788-YTFGE,0.31956002113093906,Theo dõi,Month-to-month,No,7,19.95,Mailed check
+3489-VSFRD,0.319419734678965,Theo dõi,One year,DSL,56,60.25,Credit card (automatic)
+9919-FZDED,0.3193601860185193,Theo dõi,Two year,DSL,72,84.1,Credit card (automatic)
+5702-KVQRD,0.31935626076335066,Theo dõi,Two year,DSL,71,82.55,Electronic check
+1386-ZIKUV,0.31877973410586824,Theo dõi,Month-to-month,No,7,18.95,Mailed check
+6184-DYUOB,0.3183183832482439,Theo dõi,Month-to-month,No,3,19.6,Mailed check
+2700-LUEVA,0.3174708169042327,Theo dõi,Month-to-month,No,1,20.75,Credit card (automatic)
+1139-WUOAH,0.31736861219709045,Theo dõi,Two year,DSL,57,53.35,Credit card (automatic)
+4702-HDRKD,0.31702457321121036,Theo dõi,One year,DSL,67,49.35,Bank transfer (automatic)
+1131-SUEKT,0.31615714993909866,Theo dõi,One year,Fiber optic,61,98.45,Bank transfer (automatic)
+6242-SGYTS,0.31550813589779964,Theo dõi,One year,Fiber optic,62,94.95,Credit card (automatic)
+6685-GBWJZ,0.31536448536330797,Theo dõi,One year,DSL,63,70.8,Credit card (automatic)
+5820-PTRYM,0.3149002619646424,Theo dõi,One year,DSL,56,68.45,Credit card (automatic)
+0743-HRVFF,0.31430785102937664,Theo dõi,One year,DSL,51,56.15,Electronic check
+1784-BXEFA,0.31420541087081644,Theo dõi,Month-to-month,No,10,20.55,Mailed check
+2839-RFSQE,0.3136726747302597,Theo dõi,Month-to-month,No,2,20.65,Mailed check
+4376-KFVRS,0.31344984813140153,Theo dõi,Two year,Fiber optic,72,114.05,Credit card (automatic)
+0178-CIIKR,0.31315885016111694,Theo dõi,Month-to-month,No,3,19.95,Mailed check
+3301-VKTGC,0.31281917641000123,Theo dõi,One year,Fiber optic,68,85.5,Bank transfer (automatic)
+9298-WGMRW,0.3125278374854994,Theo dõi,Two year,Fiber optic,72,115.5,Bank transfer (automatic)
+9025-ZRPVR,0.312047377544231,Theo dõi,Month-to-month,No,9,18.95,Mailed check
+0463-WZZKO,0.3119248862842236,Theo dõi,Month-to-month,No,3,20.75,Credit card (automatic)
+5061-PBXFW,0.3113044145813376,Theo dõi,Month-to-month,DSL,32,61.4,Bank transfer (automatic)
+2308-STERM,0.31123505085487563,Theo dõi,Month-to-month,No,2,19.4,Mailed check
+4541-RMRLG,0.3111924445533644,Theo dõi,Month-to-month,No,7,19.25,Electronic check
+5062-CJJKH,0.31051159607737494,Theo dõi,One year,DSL,25,53.65,Mailed check
+3694-GLTJM,0.31022911261345976,Theo dõi,Month-to-month,No,5,19.65,Credit card (automatic)
+9637-CDTKZ,0.3094832894280701,Theo dõi,Two year,Fiber optic,72,114.1,Credit card (automatic)
+8390-FESFV,0.3093091493622531,Theo dõi,Two year,DSL,62,84.5,Bank transfer (automatic)
+9986-BONCE,0.3080961524008355,Theo dõi,Month-to-month,No,4,20.95,Bank transfer (automatic)
+0816-TSPHQ,0.3079811756471758,Theo dõi,Month-to-month,No,2,20.75,Mailed check
+2233-TXSIU,0.30732023227501987,Theo dõi,One year,DSL,17,44.45,Credit card (automatic)
+6776-TLWOI,0.3061682023734688,Theo dõi,Month-to-month,No,3,19.85,Mailed check
+1385-TQOZW,0.3061267990086296,Theo dõi,Month-to-month,No,9,20.45,Credit card (automatic)
+7017-VFULY,0.3051585709788293,Theo dõi,Month-to-month,No,2,20.1,Bank transfer (automatic)
+9629-NHXFW,0.3050565811652735,Theo dõi,Month-to-month,No,1,19.4,Mailed check
+3847-BAERP,0.3049945691599732,Theo dõi,Month-to-month,No,10,20.9,Mailed check
+8053-WWDRO,0.3049560662541794,Theo dõi,Month-to-month,No,6,19.5,Bank transfer (automatic)
+2987-BJXIK,0.3047364899024512,Theo dõi,Two year,DSL,70,84.7,Mailed check
+6112-KTHFQ,0.30469495959495224,Theo dõi,Month-to-month,No,13,19.3,Mailed check
+5850-BDWCY,0.3046712630139216,Theo dõi,Month-to-month,No,6,20.2,Mailed check
+2877-VDUER,0.3045986400931386,Theo dõi,One year,DSL,35,40.9,Mailed check
+3679-XASPY,0.30372190757058837,Theo dõi,Month-to-month,No,1,19.45,Electronic check
+9364-YKUVW,0.3037178774913388,Theo dõi,Month-to-month,No,15,19.8,Mailed check
+3571-DPYUH,0.30340127317656373,Theo dõi,One year,Fiber optic,58,94.7,Credit card (automatic)
+4304-TSPVK,0.30297218531737097,Theo dõi,Two year,Fiber optic,68,114.9,Bank transfer (automatic)
+7322-OCWHC,0.30293022818949705,Theo dõi,Two year,Fiber optic,72,93.05,Bank transfer (automatic)
+3096-WPXBT,0.30273847264101733,Theo dõi,One year,Fiber optic,61,100.7,Credit card (automatic)
+0254-KCJGT,0.30219395518471875,Theo dõi,One year,DSL,52,81.4,Credit card (automatic)
+3161-ONRWK,0.30216570408179844,Theo dõi,One year,DSL,60,65.85,Bank transfer (automatic)
+0420-TXVSG,0.3017882943754367,Theo dõi,Two year,DSL,66,66.1,Credit card (automatic)
+7854-EKTJL,0.300838525257393,Theo dõi,Month-to-month,No,2,19.6,Electronic check
+0661-KBKPA,0.3007547900424569,Theo dõi,One year,DSL,53,78.75,Mailed check
+9640-ZSLDC,0.3007433450314294,Theo dõi,One year,DSL,53,60.6,Credit card (automatic)
+3675-EQOZA,0.30060783372242206,Theo dõi,Month-to-month,No,5,20.65,Bank transfer (automatic)
+3324-OIRTO,0.3003684207878864,Theo dõi,One year,Fiber optic,71,104.65,Bank transfer (automatic)
+1036-GUDCL,0.3000995231869019,Theo dõi,Month-to-month,DSL,60,79.05,Credit card (automatic)
+5329-KRDTM,0.29967630715899457,Theo dõi,Two year,DSL,72,77.35,Credit card (automatic)
+5318-YKDPV,0.2986906550410623,Theo dõi,Two year,DSL,43,79.15,Credit card (automatic)
+9256-JTBNZ,0.2985788497519499,Theo dõi,Month-to-month,No,11,20.3,Bank transfer (automatic)
+5498-IBWPI,0.2983719646910889,Theo dõi,One year,DSL,66,49.4,Credit card (automatic)
+9374-YOLBJ,0.2980342429648304,Theo dõi,Month-to-month,No,1,19.25,Electronic check
+4237-CLSMM,0.29794904865527605,Theo dõi,Month-to-month,No,2,20.0,Mailed check
+9339-FIIJL,0.2977594991255299,Theo dõi,Two year,DSL,72,85.95,Bank transfer (automatic)
+5863-OOKCL,0.29680683626404786,Theo dõi,Month-to-month,No,10,18.85,Mailed check
+9968-FFVVH,0.29621493660279485,Theo dõi,One year,DSL,63,68.8,Bank transfer (automatic)
+4981-FLTMF,0.2958590941244233,Theo dõi,Month-to-month,DSL,57,65.2,Bank transfer (automatic)
+9402-ROUMJ,0.2957140386867793,Theo dõi,One year,Fiber optic,67,100.25,Bank transfer (automatic)
+5825-XJOCM,0.29526661277769234,Theo dõi,One year,DSL,48,64.4,Bank transfer (automatic)
+9385-NXKDA,0.294809357585316,Theo dõi,Two year,DSL,72,82.65,Credit card (automatic)
+9073-ZZIAY,0.29442423467727336,Theo dõi,Two year,DSL,62,86.1,Electronic check
+8713-IGZSO,0.2941403728062066,Theo dõi,Month-to-month,No,2,24.85,Mailed check
+6967-PEJLL,0.2940459908327028,Theo dõi,One year,DSL,37,40.2,Electronic check
+5975-BAICR,0.2937414993406583,Theo dõi,One year,DSL,36,63.7,Credit card (automatic)
+2088-IEBAU,0.2936000763036542,Theo dõi,Two year,DSL,68,88.15,Electronic check
+6838-HVLXG,0.29352654839865927,Theo dõi,Month-to-month,No,12,20.3,Mailed check
+3623-FQBOX,0.29289263172595065,Theo dõi,Month-to-month,No,21,19.95,Mailed check
+0379-DJQHR,0.29269033832545005,Theo dõi,Two year,DSL,67,81.35,Credit card (automatic)
+6953-PBDIN,0.29142660134579496,Theo dõi,Two year,DSL,70,72.95,Bank transfer (automatic)
+6993-YCOBK,0.29103515024637944,Theo dõi,Two year,Fiber optic,60,110.6,Electronic check
+0513-RBGPE,0.2905995590732127,Theo dõi,Two year,DSL,37,62.8,Credit card (automatic)
+6258-NGCNG,0.29003179756325437,Theo dõi,Month-to-month,No,7,23.5,Mailed check
+6119-SPUDB,0.28957093577671533,Theo dõi,Two year,DSL,46,38.25,Mailed check
+9367-TCUYN,0.28949946889173245,Theo dõi,Month-to-month,No,12,20.1,Mailed check
+3487-EARAT,0.2887016125344727,Theo dõi,One year,DSL,70,74.1,Credit card (automatic)
+7359-WWYJV,0.2875902096558387,Theo dõi,Two year,Fiber optic,72,114.45,Credit card (automatic)
+5025-GOOKI,0.2873621825505521,Theo dõi,Month-to-month,No,20,18.9,Credit card (automatic)
+1729-VLAZJ,0.28610066759299796,Theo dõi,One year,DSL,10,40.25,Mailed check
+1063-DHQJF,0.2855022997633747,Theo dõi,Two year,Fiber optic,69,92.15,Mailed check
+9962-BFPDU,0.28542353666933323,Theo dõi,Month-to-month,No,1,20.05,Mailed check
+5514-YQENT,0.2842906614457666,Theo dõi,Two year,Fiber optic,41,111.15,Electronic check
+2958-NHPPS,0.2834727224576703,Theo dõi,Month-to-month,No,23,20.85,Electronic check
+4086-ATNFV,0.2827372712220989,Theo dõi,One year,DSL,34,60.8,Mailed check
+8457-XIGKN,0.2824938189246593,Theo dõi,Month-to-month,No,20,19.6,Credit card (automatic)
+2159-TURXX,0.2821007056163873,Theo dõi,Month-to-month,No,5,20.05,Credit card (automatic)
+6061-GWWAV,0.280794946467778,Theo dõi,One year,DSL,41,70.2,Mailed check
+7816-VGHTO,0.2789542222797513,Theo dõi,Two year,DSL,6,40.55,Mailed check
+7471-MQPOS,0.27738408589265684,Theo dõi,One year,DSL,71,72.9,Bank transfer (automatic)
+2428-ZMCTB,0.2769276466810399,Theo dõi,Month-to-month,No,10,19.75,Credit card (automatic)
+8780-RSYYU,0.2768782750901719,Theo dõi,Month-to-month,No,25,19.2,Credit card (automatic)
+9674-EHPPG,0.27580683677484985,Theo dõi,Two year,DSL,46,40.4,Credit card (automatic)
+1218-VKFPE,0.2758007421009443,Theo dõi,Month-to-month,No,12,19.0,Mailed check
+4012-YCFAI,0.2743877647993242,Theo dõi,Two year,DSL,60,61.35,Mailed check
+7560-QJAVJ,0.2741469693014874,Theo dõi,Two year,DSL,70,79.6,Bank transfer (automatic)
+2954-PIBKO,0.2736333282315102,Theo dõi,Two year,DSL,69,64.15,Credit card (automatic)
+6848-YLDFR,0.2732586581795344,Theo dõi,One year,DSL,58,75.2,Credit card (automatic)
+6374-AFWOX,0.2728432243214285,Theo dõi,Two year,DSL,46,65.65,Mailed check
+8181-YHCMF,0.27243559685066454,Theo dõi,Two year,DSL,68,60.3,Credit card (automatic)
+5537-UXXVS,0.272194076485454,Theo dõi,Month-to-month,No,20,19.25,Bank transfer (automatic)
+4378-MYPGO,0.2718258334220235,Theo dõi,Two year,Fiber optic,68,105.25,Bank transfer (automatic)
+3011-WQKSZ,0.2699530061460094,Theo dõi,Month-to-month,No,19,20.0,Electronic check
+8690-UPCZI,0.2698320946917523,Theo dõi,One year,DSL,29,69.05,Bank transfer (automatic)
+7531-GQHME,0.26949431094684184,Theo dõi,Month-to-month,No,12,20.05,Credit card (automatic)
+3400-ESFUW,0.26930276698841593,Theo dõi,Two year,DSL,55,57.55,Bank transfer (automatic)
+6374-NTQLP,0.2691938431356727,Theo dõi,Two year,Fiber optic,72,104.1,Credit card (automatic)
+1568-BEKZM,0.2691780378127397,Theo dõi,Two year,DSL,70,90.05,Credit card (automatic)
+1744-JHKYS,0.2691414146546204,Theo dõi,Month-to-month,No,34,24.7,Electronic check
+9372-TXXPS,0.26912273662709024,Theo dõi,Two year,DSL,60,59.85,Bank transfer (automatic)
+8626-PTQGE,0.26886119454776725,Theo dõi,Two year,DSL,69,60.05,Bank transfer (automatic)
+3429-IFLEM,0.2688271807384447,Theo dõi,Two year,DSL,71,77.35,Credit card (automatic)
+5696-CEIQJ,0.26830226056480916,Theo dõi,Two year,Fiber optic,67,103.15,Bank transfer (automatic)
+8338-QIUNR,0.2678621592010117,Theo dõi,Two year,DSL,72,66.5,Credit card (automatic)
+6288-CHQJB,0.26782073403435797,Theo dõi,Two year,DSL,54,69.95,Bank transfer (automatic)
+2990-IAJSV,0.2675533651282392,Theo dõi,Two year,DSL,72,92.0,Bank transfer (automatic)
+5468-BPMMO,0.26736144415566776,Theo dõi,Month-to-month,No,46,19.6,Electronic check
+8345-MVDYC,0.26734815458423866,Theo dõi,Two year,DSL,45,81.65,Bank transfer (automatic)
+2649-HWLYB,0.2672375746208112,Theo dõi,Two year,DSL,65,76.15,Bank transfer (automatic)
+9777-IQHWP,0.26657499417952624,Theo dõi,Two year,Fiber optic,64,93.4,Bank transfer (automatic)
+4654-ULTTN,0.26620372057271674,Theo dõi,Two year,DSL,70,74.8,Credit card (automatic)
+6418-HNFED,0.2655324642819541,Theo dõi,Two year,DSL,51,83.25,Credit card (automatic)
+9860-LISIZ,0.26427737415916713,Theo dõi,Month-to-month,No,34,20.35,Mailed check
+9313-QOLTZ,0.2638544850674675,Theo dõi,Month-to-month,No,26,20.9,Mailed check
+7266-GSSJX,0.263522081456832,Theo dõi,Month-to-month,No,11,20.45,Electronic check
+4227-OJHAL,0.2634924627576567,Theo dõi,One year,DSL,68,73.0,Credit card (automatic)
+6013-BHCAW,0.26313178688021877,Theo dõi,Two year,DSL,61,81.0,Bank transfer (automatic)
+1929-ZCBHE,0.2622234334524965,Theo dõi,One year,DSL,47,40.3,Electronic check
+1227-UDMZR,0.2621756784261943,Theo dõi,Two year,DSL,72,91.15,Bank transfer (automatic)
+2335-GSODA,0.260869230802243,Theo dõi,Two year,DSL,23,40.1,Mailed check
+7764-BDPEE,0.2601934396122315,Theo dõi,Month-to-month,No,3,20.85,Mailed check
+2541-YGPKE,0.2600212126169611,Theo dõi,One year,DSL,42,63.7,Credit card (automatic)
+7998-WNZEM,0.25984474173776506,Theo dõi,Two year,DSL,71,80.6,Bank transfer (automatic)
+9530-GRMJG,0.25918833855629797,Theo dõi,Two year,DSL,70,84.1,Electronic check
+8580-QVLOC,0.25887288713586687,Theo dõi,Two year,DSL,72,92.45,Credit card (automatic)
+6203-HBZPA,0.2574434593036424,Theo dõi,Two year,DSL,52,63.9,Credit card (automatic)
+3766-EJLFL,0.25723127991841716,Theo dõi,Two year,Fiber optic,68,109.05,Bank transfer (automatic)
+8591-TKMZH,0.25683343081595095,Theo dõi,Two year,Fiber optic,59,111.1,Mailed check
+4940-KHCWD,0.2558139666623874,Theo dõi,Two year,DSL,60,37.7,Bank transfer (automatic)
+0909-SELIE,0.2557903541803829,Theo dõi,Two year,DSL,61,80.8,Bank transfer (automatic)
+2061-VVFST,0.25562535959520377,Theo dõi,Month-to-month,No,37,19.5,Bank transfer (automatic)
+3071-MVJCD,0.25541580168611394,Theo dõi,Two year,DSL,72,82.3,Bank transfer (automatic)
+7649-SIJJF,0.2549903171658454,Theo dõi,Two year,DSL,71,80.1,Mailed check
+3884-UEBXB,0.2545622297931935,Theo dõi,Two year,DSL,67,36.15,Bank transfer (automatic)
+9867-XOBQA,0.25435240205925186,Theo dõi,Two year,DSL,21,53.15,Mailed check
+3948-KXDUF,0.2540643096303175,Theo dõi,Two year,DSL,66,68.75,Bank transfer (automatic)
+3077-RSNTJ,0.25402977585093456,Theo dõi,Month-to-month,No,6,19.7,Mailed check
+6701-YVNQG,0.25383908586625703,Theo dõi,Two year,DSL,72,88.7,Credit card (automatic)
+4946-EDSEW,0.2534965789020833,Theo dõi,Month-to-month,No,11,19.25,Mailed check
+9142-XMYJH,0.25283896876490636,Theo dõi,Month-to-month,No,29,19.35,Credit card (automatic)
+3795-GWTRD,0.2527544673520062,Theo dõi,Two year,DSL,63,75.55,Credit card (automatic)
+9755-JHNMN,0.25266837947468884,Theo dõi,Two year,DSL,49,67.4,Bank transfer (automatic)
+0123-CRBRT,0.25254610516906945,Theo dõi,Two year,DSL,61,88.1,Mailed check
+1459-QNFQT,0.2522921640933476,Theo dõi,Two year,DSL,70,59.5,Bank transfer (automatic)
+2824-DXNKN,0.25181235938561625,Theo dõi,Two year,DSL,72,71.45,Bank transfer (automatic)
+8619-IJNDK,0.2513719611773305,Theo dõi,Two year,DSL,71,64.05,Credit card (automatic)
+7401-JIXNM,0.2501026654563866,Theo dõi,Two year,DSL,54,91.3,Credit card (automatic)
+2967-MXRAV,0.2496609055245652,Theo dõi,One year,No,1,18.8,Mailed check
+0839-JTCUD,0.24958920089005698,Theo dõi,Two year,DSL,66,89.9,Credit card (automatic)
+6164-HAQTX,0.24890528821696814,Theo dõi,Two year,DSL,71,53.95,Bank transfer (automatic)
+7311-MQJCH,0.24753569884053384,Theo dõi,One year,No,5,19.55,Electronic check
+6164-HXUGH,0.24709616585934996,Theo dõi,Month-to-month,No,6,19.85,Mailed check
+8915-NNTRC,0.24676922352646688,Theo dõi,Two year,Fiber optic,72,107.7,Credit card (automatic)
+8735-NBLWT,0.2465823055210935,Theo dõi,Month-to-month,No,9,20.4,Mailed check
+5181-OABFK,0.24591187524070515,Theo dõi,Two year,DSL,56,61.3,Credit card (automatic)
+8015-IHCGW,0.2455982797286168,Theo dõi,Two year,Fiber optic,72,115.5,Electronic check
+3200-MNQTF,0.24522132504912597,Theo dõi,Two year,DSL,67,70.9,Credit card (automatic)
+8590-YFFQO,0.24515150334404756,Theo dõi,Two year,DSL,70,64.95,Credit card (automatic)
+5803-NQJZO,0.2444169047403159,Theo dõi,Two year,DSL,72,67.8,Bank transfer (automatic)
+7356-AYNJP,0.2438341845922156,Theo dõi,One year,No,4,23.9,Electronic check
+0181-RITDD,0.24359722542028683,Theo dõi,Two year,Fiber optic,62,108.15,Mailed check
+4877-TSOFF,0.24340162289650213,Theo dõi,One year,DSL,55,75.75,Bank transfer (automatic)
+4830-FAXFM,0.24323605673069504,Theo dõi,Month-to-month,No,19,24.1,Credit card (automatic)
+5696-JVVQY,0.24270910700987444,Theo dõi,Two year,DSL,48,70.1,Credit card (automatic)
+3967-KXAPS,0.2425097947640054,Theo dõi,Two year,DSL,72,92.3,Credit card (automatic)
+2129-ALKBS,0.24230480943979643,Theo dõi,Month-to-month,No,40,26.2,Electronic check
+7408-OFWXJ,0.2419937432678055,Theo dõi,Two year,DSL,72,89.8,Credit card (automatic)
+3511-BFTJW,0.2413667992796258,Theo dõi,Two year,DSL,72,38.5,Credit card (automatic)
+6445-TNRXS,0.24094095211768615,Theo dõi,Two year,Fiber optic,68,114.7,Bank transfer (automatic)
+9286-BHDQG,0.2405715269395493,Theo dõi,Two year,DSL,72,45.25,Credit card (automatic)
+3181-MIZBN,0.24027165463944544,Theo dõi,Month-to-month,No,16,19.75,Electronic check
+5204-HMGYF,0.23917209523023192,Theo dõi,One year,DSL,49,87.2,Mailed check
+1741-WTPON,0.23773124354767244,Theo dõi,Two year,Fiber optic,56,115.85,Mailed check
+2926-JEJJC,0.23556244225033154,Theo dõi,One year,No,8,20.2,Bank transfer (automatic)
+0056-EPFBG,0.2339604257439777,Theo dõi,Two year,DSL,20,39.4,Credit card (automatic)
+6598-RFFVI,0.22989760985136548,Theo dõi,One year,No,2,19.3,Credit card (automatic)
+1716-LSAMB,0.22981857950492476,Theo dõi,Two year,DSL,45,54.65,Bank transfer (automatic)
+0263-FJTQO,0.22920955079976096,Theo dõi,Two year,DSL,50,70.5,Credit card (automatic)
+6519-ZHPXP,0.22833625191345253,Theo dõi,Two year,Fiber optic,72,108.3,Bank transfer (automatic)
+6332-FBZRI,0.22814224365562388,Theo dõi,One year,DSL,67,69.35,Credit card (automatic)
+5619-XZZKR,0.22649871987479314,Theo dõi,One year,No,4,19.95,Mailed check
+9313-CDOGY,0.22640594586171642,Theo dõi,Month-to-month,No,38,19.6,Electronic check
+8909-BOLNL,0.22591153883536425,Theo dõi,One year,No,3,21.2,Mailed check
+0298-XACET,0.22523960374389326,Theo dõi,Two year,DSL,52,50.2,Mailed check
+7010-ZMVBF,0.22483905017810166,Theo dõi,Month-to-month,No,18,20.45,Mailed check
+3396-DKDEL,0.22384737430922585,Theo dõi,Two year,Fiber optic,70,115.15,Credit card (automatic)
+6283-GITPX,0.220091554604846,Theo dõi,Two year,DSL,71,76.9,Credit card (automatic)
+4464-JCOLN,0.21987052022992062,Theo dõi,One year,No,2,19.85,Mailed check
+2171-UDMFD,0.21927918386632805,Theo dõi,Month-to-month,No,32,19.45,Credit card (automatic)
+8573-JGCZW,0.21925583790708977,Theo dõi,One year,No,17,19.65,Bank transfer (automatic)
+3831-YCPUO,0.21828145025479295,Theo dõi,Two year,Fiber optic,72,109.5,Credit card (automatic)
+3530-VWVGU,0.2173990681993628,Theo dõi,Month-to-month,No,22,19.9,Mailed check
+0562-FGDCR,0.2169998806151407,Theo dõi,Two year,DSL,72,74.55,Mailed check
+3115-CZMZD,0.2160278483096412,Theo dõi,Two year,No,0,20.25,Mailed check
+7279-NMVJC,0.2157487843109559,Theo dõi,One year,No,17,19.9,Bank transfer (automatic)
+3470-OBUET,0.21560717608084715,Theo dõi,Two year,DSL,67,74.0,Credit card (automatic)
+3705-PSNGL,0.21535313850296148,Theo dõi,One year,No,45,20.4,Electronic check
+0017-IUDMW,0.21498972855153986,Theo dõi,Two year,Fiber optic,72,116.8,Credit card (automatic)
+1038-RQOST,0.21404427476499435,Theo dõi,Month-to-month,No,19,20.6,Mailed check
+5457-COLHT,0.213436725528054,Theo dõi,Two year,DSL,69,80.65,Bank transfer (automatic)
+1133-KXCGE,0.21105362551637497,Theo dõi,One year,No,18,20.1,Mailed check
+2239-CFOUJ,0.21036189486686865,Theo dõi,One year,No,1,20.4,Mailed check
+5505-OVWQW,0.20991782330729084,Theo dõi,One year,No,17,20.15,Mailed check
+2885-HIJDH,0.20960409812747408,Theo dõi,Two year,DSL,69,86.9,Bank transfer (automatic)
+1952-DVVSW,0.20879343525878238,Theo dõi,One year,No,10,20.1,Mailed check
+5808-TOTXO,0.20876049806214794,Theo dõi,One year,No,3,20.55,Credit card (automatic)
+3750-YHRYO,0.20845272937310355,Theo dõi,One year,No,7,20.65,Mailed check
+2788-CJQAQ,0.2083963580690087,Theo dõi,One year,No,13,19.45,Mailed check
+5442-BXVND,0.20798782435052668,Theo dõi,Month-to-month,No,33,24.25,Bank transfer (automatic)
+5751-USDBL,0.20787439949893027,Theo dõi,Two year,DSL,46,81.0,Mailed check
+7369-TRPFD,0.2077166586218472,Theo dõi,One year,No,19,18.8,Mailed check
+1088-AUUZZ,0.2074583140252357,Theo dõi,Two year,DSL,56,75.85,Credit card (automatic)
+9030-QGZNL,0.2062324289978684,Theo dõi,Two year,No,8,20.85,Mailed check
+0788-DXBFY,0.20578230393515082,Theo dõi,One year,No,58,19.55,Electronic check
+9746-UGFAC,0.20559041922656557,Theo dõi,One year,No,22,20.85,Bank transfer (automatic)
+6434-TTGJP,0.205449825624054,Theo dõi,Two year,DSL,10,53.7,Credit card (automatic)
+7649-PHJVR,0.2052388844405667,Theo dõi,One year,No,11,19.5,Mailed check
+8717-VCTXJ,0.20482717889981344,Theo dõi,One year,No,42,19.55,Mailed check
+4709-LKHYG,0.20295088203912834,Theo dõi,One year,No,29,20.0,Electronic check
+2320-TZRRH,0.2028829108697076,Theo dõi,One year,No,20,19.5,Mailed check
+6223-DHJGV,0.202769087862515,Theo dõi,One year,No,42,20.65,Mailed check
+8763-KIAFH,0.2023326945526982,Theo dõi,One year,No,27,20.55,Mailed check
+0307-BCOPK,0.20202882156900742,Theo dõi,One year,No,16,19.05,Mailed check
+0052-YNYOT,0.20191306696812827,Theo dõi,One year,No,67,20.55,Electronic check
+7677-SJJJK,0.20125375478420904,Theo dõi,One year,No,8,19.9,Credit card (automatic)
+2907-ILJBN,0.20072959060883988,Theo dõi,One year,No,11,20.6,Mailed check
+5917-RYRMG,0.20019781109847334,Theo dõi,One year,No,32,19.8,Credit card (automatic)
+5924-SNGKP,0.19996884782669835,Theo dõi,One year,No,41,20.25,Credit card (automatic)
+6814-ZPWFQ,0.19940910385185012,Theo dõi,One year,No,51,25.0,Bank transfer (automatic)
+9534-NSXEM,0.19900206538461712,Theo dõi,One year,No,26,20.65,Credit card (automatic)
+3982-JGSFD,0.19896963933643544,Theo dõi,One year,No,36,20.35,Credit card (automatic)
+5063-IUOKK,0.19853924878813536,Theo dõi,Two year,No,13,19.75,Mailed check
+5469-NUJUR,0.19805802897719485,Theo dõi,Two year,No,19,19.95,Mailed check
+4359-INNWN,0.19759440710034115,Theo dõi,One year,No,17,20.05,Credit card (automatic)
+1131-ALZWV,0.19753461087165325,Theo dõi,One year,No,24,24.6,Bank transfer (automatic)
+5857-XRECV,0.19743111924790657,Theo dõi,One year,No,2,20.5,Bank transfer (automatic)
+5495-GPSRW,0.19706323500139242,Theo dõi,Two year,No,20,19.7,Mailed check
+6698-OXETB,0.19520772672046402,Theo dõi,Two year,No,11,20.4,Mailed check
+3985-HOYPM,0.1938124921239469,Theo dõi,One year,No,26,19.4,Mailed check
+2923-ARZLG,0.1937324249729564,Theo dõi,One year,No,0,19.7,Mailed check
+5313-FPXWG,0.19371541181804516,Theo dõi,One year,No,51,24.6,Bank transfer (automatic)
+2812-REYAT,0.19318804232429904,Theo dõi,One year,No,49,20.05,Bank transfer (automatic)
+3454-JFUBC,0.1929582833226118,Theo dõi,Two year,No,68,20.0,Credit card (automatic)
+6365-HITVU,0.19257565058015577,Theo dõi,Two year,DSL,71,87.25,Credit card (automatic)
+2150-OEGBV,0.19079188453875393,Theo dõi,One year,No,27,20.1,Bank transfer (automatic)
+8873-TMKGR,0.1902900026970676,Theo dõi,One year,No,29,19.1,Mailed check
+3508-VLHCZ,0.189483536182723,Theo dõi,Two year,DSL,71,90.55,Credit card (automatic)
+0164-XAIRP,0.18935033394811815,Theo dõi,Two year,No,24,19.55,Bank transfer (automatic)
+8241-JUIQO,0.18934343277326204,Theo dõi,One year,No,61,19.45,Bank transfer (automatic)
+3913-FCUUW,0.18925212239100708,Theo dõi,Two year,DSL,72,70.45,Bank transfer (automatic)
+9114-DPSIA,0.18902712416437112,Theo dõi,Two year,DSL,72,81.0,Credit card (automatic)
+3506-OVLKD,0.1886788020747026,Theo dõi,One year,No,35,26.2,Bank transfer (automatic)
+4674-HGNUA,0.18851670946013332,Theo dõi,Two year,DSL,71,89.9,Credit card (automatic)
+2925-VDZHY,0.18831488889691253,Theo dõi,Two year,DSL,72,88.7,Credit card (automatic)
+3563-SVYLG,0.18814656355037285,Theo dõi,Two year,DSL,68,62.65,Credit card (automatic)
+5727-MYATE,0.18740150513591344,Theo dõi,Two year,DSL,72,90.8,Credit card (automatic)
+5324-KTGCG,0.1873998670968862,Theo dõi,One year,No,71,20.85,Electronic check
+3125-RAHBV,0.1869246399468964,Theo dõi,One year,No,22,20.3,Credit card (automatic)
+4703-MQYKT,0.1866404083984078,Theo dõi,Two year,No,21,19.6,Mailed check
+5334-AFQJB,0.18628531782034127,Theo dõi,Two year,No,72,25.1,Credit card (automatic)
+5380-XPJNZ,0.18623582229454455,Theo dõi,One year,No,38,20.05,Mailed check
+7061-OVMIM,0.1853036677496369,Theo dõi,One year,No,30,19.55,Bank transfer (automatic)
+3251-YMVWZ,0.1838237986059177,Theo dõi,One year,No,53,24.05,Bank transfer (automatic)
+4698-KVLLG,0.18343229638827002,Theo dõi,Two year,No,51,19.6,Credit card (automatic)
+3865-ZFZIB,0.18282642129457322,Theo dõi,Two year,No,19,19.65,Mailed check
+9483-GCPWE,0.18123841492797585,Theo dõi,One year,No,9,20.1,Mailed check
+4121-AGSIN,0.1809461500034189,Theo dõi,One year,No,58,24.5,Credit card (automatic)
+9824-QCJPK,0.1807772988014522,Theo dõi,One year,No,36,20.0,Mailed check
+1047-RNXZV,0.1803902182230458,Theo dõi,Two year,No,43,19.55,Mailed check
+7167-PCEYD,0.18038675702175092,Theo dõi,Two year,No,67,19.8,Mailed check
+7205-BAIAD,0.18016785725009948,Theo dõi,Two year,No,40,20.6,Bank transfer (automatic)
+2332-TODQS,0.18014273746654694,Theo dõi,One year,No,48,25.05,Credit card (automatic)
+7762-ONLJY,0.17941266538486797,Theo dõi,One year,No,6,19.7,Mailed check
+4521-WFJAI,0.17886910809534304,Theo dõi,Two year,No,56,25.95,Bank transfer (automatic)
+4825-FUREZ,0.17852551255629961,Theo dõi,Two year,No,42,20.25,Electronic check
+7515-LODFU,0.1784537684621024,Theo dõi,Two year,No,69,20.3,Credit card (automatic)
+9588-YRFHY,0.17802777535485192,Theo dõi,Two year,No,49,19.9,Credit card (automatic)
+4299-OPXEJ,0.17777338101927764,Theo dõi,Two year,No,56,19.55,Bank transfer (automatic)
+6823-SIDFQ,0.17771849190910344,Theo dõi,One year,No,28,18.25,Credit card (automatic)
+0769-MURVM,0.17723652339743587,Theo dõi,Two year,DSL,72,65.7,Bank transfer (automatic)
+4530-NDRKU,0.17648553182368862,Theo dõi,One year,No,42,19.05,Electronic check
+0608-JDVEC,0.1752957682246327,Theo dõi,Two year,No,50,19.8,Electronic check
+3970-XGJDU,0.17519797941551715,Theo dõi,Two year,No,62,19.2,Credit card (automatic)
+0559-CKHUS,0.17472746577815784,Theo dõi,Two year,No,29,19.55,Mailed check
+0301-FIDRB,0.1744205636002459,Theo dõi,Two year,DSL,72,63.8,Bank transfer (automatic)
+0048-PIHNL,0.17420873774622048,Theo dõi,One year,No,49,20.45,Bank transfer (automatic)
+5666-MBJPT,0.17401214512855348,Theo dõi,Two year,No,65,25.1,Bank transfer (automatic)
+8430-TWCBX,0.17398952851264268,Theo dõi,One year,No,49,20.7,Credit card (automatic)
+8701-DGLVH,0.1736328940590652,Theo dõi,Two year,No,51,20.45,Mailed check
+7606-BPHHN,0.17350351216389723,Theo dõi,Two year,No,72,19.8,Credit card (automatic)
+3646-ITDGM,0.17317412175552654,Theo dõi,Two year,No,56,19.7,Bank transfer (automatic)
+2525-GVKQU,0.17173186084849096,Theo dõi,Two year,No,60,20.6,Mailed check
+4537-CIBHB,0.17168454684153228,Theo dõi,One year,No,9,20.25,Mailed check
+3717-FDJFU,0.17125944881748256,Theo dõi,Two year,No,5,20.45,Mailed check
+2805-AUFQN,0.17108556725776364,Theo dõi,Two year,No,25,19.8,Credit card (automatic)
+2616-FLVQC,0.17076930170663585,Theo dõi,Two year,No,64,19.55,Mailed check
+1767-CJKBA,0.17060596222413227,Theo dõi,Two year,No,66,25.1,Mailed check
+4735-BJKOU,0.17000139986633706,Theo dõi,Two year,No,40,20.15,Mailed check
+6292-TOSSS,0.1697800214580189,Theo dõi,Two year,No,50,24.9,Bank transfer (automatic)
+4213-HKBJO,0.16935047800913633,Theo dõi,Two year,No,33,25.7,Credit card (automatic)
+7114-AEOZE,0.16909985876719788,Theo dõi,Two year,No,60,19.85,Bank transfer (automatic)
+9548-LERKT,0.1689928521522347,Theo dõi,Two year,No,24,19.75,Mailed check
+0397-ZXWQF,0.16843263584257373,Theo dõi,Two year,No,67,20.5,Bank transfer (automatic)
+6080-LNESI,0.1673951178546067,Theo dõi,Two year,No,51,24.75,Mailed check
+6134-KWTBV,0.16543203452832134,Theo dõi,Two year,No,62,23.4,Bank transfer (automatic)
+6349-JDHQP,0.16526387700067968,Theo dõi,Two year,No,53,19.85,Credit card (automatic)
+0057-QBUQH,0.16434641857588775,Theo dõi,Two year,No,43,25.1,Electronic check
+8735-SDUFN,0.16394573532405027,Theo dõi,Two year,No,72,24.3,Bank transfer (automatic)
+9814-AOUDH,0.16378033878283646,Theo dõi,Two year,No,53,19.5,Credit card (automatic)
+6527-PZFPV,0.1627866914816863,Theo dõi,One year,No,24,20.8,Credit card (automatic)
+3836-FZSDJ,0.16231058755016833,Theo dõi,Two year,No,71,24.85,Bank transfer (automatic)
+5519-TEEUH,0.1620338672077337,Theo dõi,One year,No,33,20.15,Mailed check
+1862-QRWPE,0.16064932542053076,Theo dõi,Two year,No,48,20.65,Bank transfer (automatic)
+8314-HTWVE,0.16060029741946444,Theo dõi,Two year,No,7,19.85,Mailed check
+1705-GUHPV,0.16050521947752763,Theo dõi,Two year,No,63,24.2,Mailed check
+1776-SPBWV,0.15958759327025238,Theo dõi,One year,No,34,20.1,Bank transfer (automatic)
+8028-PNXHQ,0.15931439228313113,Theo dõi,Two year,No,62,24.25,Bank transfer (automatic)
+6917-FIJHC,0.1588632934104137,Theo dõi,Two year,No,72,26.0,Mailed check
+6625-FLENO,0.15863273054492746,Theo dõi,Two year,No,58,20.75,Mailed check
+2632-TACXW,0.1583101492661145,Theo dõi,Two year,No,62,23.65,Bank transfer (automatic)
+0732-OCQOC,0.15828034707202912,Theo dõi,Two year,No,52,25.05,Bank transfer (automatic)
+4018-PPNDW,0.15796946609178092,Theo dõi,Two year,No,61,24.1,Mailed check
+7337-CINUD,0.15738721951299342,Theo dõi,Two year,No,8,19.5,Bank transfer (automatic)
+8207-VVMYB,0.15708188305886783,Theo dõi,Two year,No,70,26.0,Bank transfer (automatic)
+1926-QUZNN,0.1567233578950513,Theo dõi,Two year,No,72,25.25,Bank transfer (automatic)
+3910-MRQOY,0.1565902703537614,Theo dõi,Two year,No,72,19.4,Bank transfer (automatic)
+2984-RGEYA,0.15631306861262495,Theo dõi,Two year,No,69,19.75,Bank transfer (automatic)
+6345-FZOQH,0.15620754854178798,Theo dõi,Two year,No,69,19.9,Mailed check
+4962-CHQPW,0.15615763246558972,Theo dõi,One year,No,29,19.85,Mailed check
+1945-XISKS,0.1558520299460003,Theo dõi,Two year,No,67,19.65,Mailed check
+7996-BPXHY,0.15514895591024216,Theo dõi,Two year,No,13,25.0,Bank transfer (automatic)
+7602-DBTOU,0.15424756786028085,Theo dõi,Two year,No,71,19.6,Mailed check
+5266-PFRQK,0.1537630672520197,Theo dõi,One year,No,52,20.85,Credit card (automatic)
+7216-KAOID,0.1535983568542391,Theo dõi,One year,No,41,19.5,Bank transfer (automatic)
+8779-YIQQA,0.1535098060137059,Theo dõi,One year,No,21,19.8,Mailed check
+1085-LDWAM,0.15320478504628893,Theo dõi,One year,No,69,20.35,Credit card (automatic)
+5774-QPLTF,0.15311357777293982,Theo dõi,One year,No,50,20.35,Mailed check
+3812-LRZIR,0.15301433502924414,Theo dõi,Two year,No,27,24.5,Electronic check
+5057-RKGLH,0.15242966592146756,Theo dõi,Two year,No,9,20.35,Mailed check
+9108-EQPNQ,0.15207849228435108,Theo dõi,Two year,No,10,26.1,Credit card (automatic)
+4785-FCIFB,0.1520613720739543,Theo dõi,Two year,No,61,24.4,Mailed check
+7632-YUTXB,0.1517441092013951,Theo dõi,One year,No,25,20.05,Mailed check
+6370-ZVHDV,0.15033417093820384,Theo dõi,Two year,No,61,25.3,Bank transfer (automatic)
+4312-KFRXN,0.1500265117659031,Theo dõi,Two year,No,72,25.4,Mailed check
+6848-HJTXY,0.14926023321108411,Theo dõi,Two year,No,64,19.45,Credit card (automatic)
+4302-ZYFEL,0.14912710323468345,Theo dõi,One year,No,69,20.55,Credit card (automatic)
+9945-PSVIP,0.14892347127508176,Theo dõi,Two year,No,25,18.7,Mailed check
+1927-QEWMY,0.14882506523828906,Theo dõi,Two year,No,72,20.5,Credit card (automatic)
+9648-BCHKM,0.14844462697412794,Theo dõi,Two year,No,18,24.65,Credit card (automatic)
+8347-GDTMP,0.14837489780381755,Theo dõi,Two year,No,64,19.45,Credit card (automatic)
+4335-UPJSI,0.14751969977530402,Theo dõi,Two year,No,24,19.75,Mailed check
+3978-YNKDD,0.14748699643280788,Theo dõi,Two year,No,19,20.85,Credit card (automatic)
+1494-EJZDW,0.1466589261533953,Theo dõi,Two year,No,10,20.15,Mailed check
+9067-SQTNS,0.1453119871835372,Theo dõi,One year,No,44,20.6,Bank transfer (automatic)
+2892-GESUL,0.1450007118585982,Theo dõi,Two year,No,18,19.35,Mailed check
+2696-RZVZW,0.14494347988253534,Theo dõi,Two year,No,68,25.05,Credit card (automatic)
+8590-OHDIW,0.14468737704294302,Theo dõi,One year,No,38,20.3,Mailed check
+4955-VCWBI,0.14448976461388416,Theo dõi,One year,No,43,20.0,Mailed check
+3027-YNWZU,0.14438818089396815,Theo dõi,Two year,No,64,25.0,Credit card (automatic)
+2169-RRLFW,0.1442496239854895,Theo dõi,Two year,No,71,25.6,Credit card (automatic)
+1697-LYYYX,0.14072273004915312,Theo dõi,One year,No,61,19.1,Credit card (automatic)
+6096-EGVTU,0.14052431356904496,Theo dõi,One year,No,64,24.9,Mailed check
+6248-BSHKG,0.13997863708741862,Theo dõi,One year,No,61,20.4,Mailed check
+7157-SMCFK,0.13934217798012924,Theo dõi,Two year,No,61,19.75,Mailed check
+2266-FUBDZ,0.13931977471784335,Theo dõi,Two year,No,15,19.35,Mailed check
+9135-HSWOC,0.13870361002232268,Theo dõi,Two year,No,64,19.7,Bank transfer (automatic)
+8219-VYBVI,0.13730075959232063,Theo dõi,Two year,No,39,25.0,Mailed check
+5296-BFCYD,0.13629144873728846,Theo dõi,Two year,No,46,20.1,Mailed check
+9950-MTGYX,0.13433217455861773,Theo dõi,Two year,No,28,20.3,Credit card (automatic)
+9365-CSLBQ,0.1342031365108245,Theo dõi,Two year,No,71,24.35,Mailed check
+7729-XBTWX,0.1325385529004576,Theo dõi,Two year,No,66,19.75,Mailed check
+8292-ITGYJ,0.13109438069443724,Theo dõi,Two year,No,45,24.65,Bank transfer (automatic)
+2263-SFSQZ,0.12907215629810734,Theo dõi,Two year,No,51,24.95,Mailed check
+0463-TXOAK,0.12841259789523438,Theo dõi,Two year,No,52,25.6,Credit card (automatic)
+8173-RXAYP,0.12782741075320414,Theo dõi,Two year,No,24,19.7,Mailed check
+1574-DYCWE,0.12766670880388178,Theo dõi,Two year,No,51,19.95,Mailed check
+9430-NKQLY,0.1274611982509972,Theo dõi,Two year,No,72,25.1,Credit card (automatic)
+6169-PPETC,0.12721772277344262,Theo dõi,Two year,No,35,20.5,Bank transfer (automatic)
+0625-AFOHS,0.12696172669386943,Theo dõi,Two year,No,29,20.2,Mailed check
+4821-WQOYN,0.12618677796758282,Theo dõi,Two year,No,72,20.1,Credit card (automatic)
+2230-XTUWL,0.1260899731817813,Theo dõi,Two year,No,48,19.55,Mailed check
+3580-GICBM,0.12601933673088475,Theo dõi,Two year,No,61,24.2,Mailed check
+1709-EJDOX,0.12554586159610628,Theo dõi,Two year,No,47,19.75,Mailed check
+3967-VQOGC,0.12509294343093577,Theo dõi,Two year,No,67,24.9,Mailed check
+0040-HALCW,0.12494918791556907,Theo dõi,Two year,No,54,20.4,Credit card (automatic)
+4742-TXUEX,0.12472760371922069,Theo dõi,Two year,No,47,19.3,Bank transfer (automatic)
+0794-YVSGE,0.12469809996651257,Theo dõi,Two year,No,72,20.3,Bank transfer (automatic)
+2075-PUEPR,0.12420894002609197,Theo dõi,Two year,No,55,19.35,Bank transfer (automatic)
+5845-BZZIB,0.12409664014183931,Theo dõi,Two year,No,35,20.1,Mailed check
+8129-GMVGI,0.12408625825833354,Theo dõi,Two year,No,56,20.05,Mailed check
+9537-JALFH,0.12297228546013546,Theo dõi,Two year,No,69,19.9,Bank transfer (automatic)
+1820-DJFPH,0.1228470692880669,Theo dõi,Two year,No,72,24.05,Bank transfer (automatic)
+3642-BYHDO,0.12266113641974491,Theo dõi,Two year,No,71,19.9,Bank transfer (automatic)
+1166-PQLGG,0.12259409983712942,Theo dõi,Two year,No,72,19.55,Bank transfer (automatic)
+7717-BICXI,0.12255289284410625,Theo dõi,Two year,No,60,20.55,Mailed check
+4086-WITJG,0.12229933322815585,Theo dõi,Two year,No,71,19.7,Credit card (automatic)
+4277-BWBML,0.12217033416501262,Theo dõi,Two year,No,72,19.95,Bank transfer (automatic)
+8711-LOBKY,0.12139504891728141,Theo dõi,Two year,No,59,19.85,Mailed check
+0962-CQPWQ,0.12104577371226441,Theo dõi,Two year,No,62,20.3,Bank transfer (automatic)
+2236-HILPA,0.12069219265508994,Theo dõi,Two year,No,62,20.65,Credit card (automatic)
+8532-UEFWH,0.1203782937255473,Theo dõi,Two year,No,52,25.75,Mailed check
+6340-DACFT,0.11951532267592231,Theo dõi,Two year,No,50,20.55,Credit card (automatic)
+4779-ZGICK,0.1187890795244,Theo dõi,Two year,No,48,23.55,Mailed check
+0174-QRVVY,0.11774664146044962,Theo dõi,Two year,No,71,25.35,Credit card (automatic)
+8165-ZJRNM,0.11723445369887373,Theo dõi,Two year,No,72,23.75,Bank transfer (automatic)
+2346-LOCWC,0.11720483326086191,Theo dõi,Two year,No,58,20.5,Credit card (automatic)
+1830-IPXVJ,0.11662301820004271,Theo dõi,Two year,No,61,19.75,Credit card (automatic)
+1403-GYAFU,0.11624303915966085,Theo dõi,Two year,No,70,20.05,Credit card (automatic)
+8224-KDLKN,0.1156289729306188,Theo dõi,Two year,No,72,25.0,Bank transfer (automatic)
+0402-OAMEN,0.11543462635965644,Theo dõi,Two year,No,72,24.45,Bank transfer (automatic)
+1555-HAPSU,0.11467133649187997,Theo dõi,Two year,No,71,23.9,Credit card (automatic)
+3088-FVYWK,0.11383570378968333,Theo dõi,Two year,No,53,25.55,Credit card (automatic)
+0480-KYJVA,0.11375250719143745,Theo dõi,Two year,No,72,24.25,Credit card (automatic)

@@ -1,0 +1,34 @@
+﻿,data_type,missing_count,missing_rate_pct,n_unique
+CustomerID,object,0,0.0,7043
+Count,int64,0,0.0,1
+Country,object,0,0.0,1
+State,object,0,0.0,1
+City,object,0,0.0,1129
+Zip Code,int64,0,0.0,1652
+Lat Long,object,0,0.0,1652
+Latitude,float64,0,0.0,1652
+Longitude,float64,0,0.0,1651
+Gender,object,0,0.0,2
+Senior Citizen,object,0,0.0,2
+Partner,object,0,0.0,2
+Dependents,object,0,0.0,2
+Tenure Months,int64,0,0.0,73
+Phone Service,object,0,0.0,2
+Multiple Lines,object,0,0.0,3
+Internet Service,object,0,0.0,3
+Online Security,object,0,0.0,3
+Online Backup,object,0,0.0,3
+Device Protection,object,0,0.0,3
+Tech Support,object,0,0.0,3
+Streaming TV,object,0,0.0,3
+Streaming Movies,object,0,0.0,3
+Contract,object,0,0.0,3
+Paperless Billing,object,0,0.0,2
+Payment Method,object,0,0.0,4
+Monthly Charges,float64,0,0.0,1585
+Total Charges,object,0,0.0,6531
+Churn Label,object,0,0.0,2
+Churn Value,int64,0,0.0,2
+Churn Score,int64,0,0.0,85
+CLTV,int64,0,0.0,3438
+Churn Reason,object,5174,73.46,20
