@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Notebook](https://img.shields.io/badge/Notebook-Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Workflow](https://img.shields.io/badge/Workflow-Reproducible%20notebook-2ea44f)](Customer_Churn_Colab_Standalone.ipynb)
 
 Mô hình dự báo xác suất một khách hàng viễn thông sẽ rời bỏ dịch vụ (*customer churn*). Dự án thực hiện khám phá dữ liệu, so sánh ba mô hình phân loại và xuất danh sách khách hàng cần ưu tiên giữ chân để hỗ trợ đội ngũ kinh doanh.
@@ -207,7 +206,3 @@ Ma trận nhầm lẫn tại ngưỡng 0.37:
 | Rời bỏ | 35 | 339 |
 
 Sau khi chạy notebook, biểu đồ tổng hợp confusion matrix, ROC curve và Precision–Recall curve được lưu tại [`outputs/05_test_evaluation.png`](outputs/05_test_evaluation.png). Các bảng số liệu có thể kiểm tra trực tiếp trong [`outputs/`](outputs/).
-
-## Giấy phép
-
-Dự án được phát hành theo [MIT License](LICENSE). Bạn có thể sử dụng, chỉnh sửa và phân phối mã nguồn, miễn là giữ lại thông báo bản quyền và giấy phép.
