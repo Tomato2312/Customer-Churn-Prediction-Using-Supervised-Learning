@@ -30,7 +30,6 @@ flowchart LR
 .
 ├── Customer_Churn_Colab_Standalone.ipynb  # Toàn bộ quy trình EDA, huấn luyện và dự báo
 ├── requirements.txt                       # Các thư viện Python cần thiết
-├── LICENSE                                # Giấy phép MIT
 └── outputs/                               # Báo cáo, chỉ số và danh sách hành động sinh ra khi chạy
     ├── validation_model_comparison.csv
     ├── threshold_selection.csv
