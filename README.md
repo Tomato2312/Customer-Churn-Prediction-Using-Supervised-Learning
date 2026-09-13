@@ -147,7 +147,7 @@ These four features — contract, payment method, internet service, tenure — a
 ### Install
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/Tomato2312/Customer-Churn-Prediction-Using-Supervised-Learning
 cd telco-churn-prediction
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\Activate.ps1
