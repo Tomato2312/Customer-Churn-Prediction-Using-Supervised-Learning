@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3%2B-F7931E?logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 A production-shaped, cost-aware churn model for a telecom operator: it predicts which customers are about to leave, explains *why*, and tells the retention team who is worth calling first — with an actual dollar figure behind that recommendation, not just an accuracy score.
 
@@ -41,8 +40,7 @@ Because a missed churner is worse than an unnecessary retention call, the model 
 ├── models/                  # churn_pipeline.joblib goes here after training (gitignored)
 ├── outputs/                 # metrics tables, figures, and the retention priority list
 ├── tests/                   # unit tests for cost-benefit math and preprocessing
-├── requirements.txt
-└── LICENSE
+└──  requirements.txt
 ```
 
 The original all-in-one Colab notebook is kept under `notebooks/` for a fast, dependency-light way to reproduce the analysis; `src/` is the same logic refactored into importable, testable modules for local development, the apps, and CI.
