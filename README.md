@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3%2B-F7931E?logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 A production-shaped, cost-aware churn model for a telecom operator: it predicts which customers are about to leave, explains *why*, and tells the retention team who is worth calling first — with an actual dollar figure behind that recommendation, not just an accuracy score.
 
@@ -149,7 +148,7 @@ These four features — contract, payment method, internet service, tenure — a
 ### Install
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/Tomato2312/Customer-Churn-Prediction-Using-Supervised-Learning
 cd telco-churn-prediction
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\Activate.ps1
@@ -246,7 +245,3 @@ The original self-contained Colab notebook is preserved at `notebooks/01_eda_tra
 **Expected profit** at threshold $t$: $\text{Profit}(t) = (\text{CHURN\_LOSS} - \text{RETENTION\_COST})\cdot TP(t) - \text{RETENTION\_COST}\cdot FP(t)$ — see `src/cost_benefit.py`.
 
 </details>
-
-## License
-
-Released under the [MIT License](LICENSE).
