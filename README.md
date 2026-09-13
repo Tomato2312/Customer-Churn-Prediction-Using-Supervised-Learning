@@ -244,7 +244,3 @@ The original self-contained Colab notebook is preserved at `notebooks/01_eda_tra
 **Expected profit** at threshold $t$: $\text{Profit}(t) = (\text{CHURN\_LOSS} - \text{RETENTION\_COST})\cdot TP(t) - \text{RETENTION\_COST}\cdot FP(t)$ — see `src/cost_benefit.py`.
 
 </details>
-
-## License
-
-Released under the [MIT License](LICENSE).
